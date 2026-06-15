@@ -1,6 +1,11 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { searchBooks, normalizeGoogleVolume } from "../src/lookup.js";
+import {
+  searchBooks,
+  searchGoogle,
+  normalizeGoogleVolume,
+  normalizeItunesItem
+} from "../src/lookup.js";
 
 test("normalizeGoogleVolume maps fields", () => {
   const vol = {
@@ -23,7 +28,23 @@ test("normalizeGoogleVolume maps fields", () => {
   assert.equal(b.copertina, "https://books/thumb?zoom=1"); // forced https
 });
 
-test("searchBooks queries Google by isbn and returns normalized results", async () => {
+test("normalizeItunesItem maps fields and strips html", () => {
+  const b = normalizeItunesItem({
+    trackName: "K-Hole",
+    artistName: "Carlo Mazza Galanti",
+    releaseDate: "2024-03-01T00:00:00Z",
+    description: "<p>Un saggio.</p>",
+    artworkUrl100: "https://is/img/100x100bb.jpg"
+  });
+  assert.equal(b.titolo, "K-Hole");
+  assert.deepEqual(b.autori, ["Carlo Mazza Galanti"]);
+  assert.equal(b.anno, "2024");
+  assert.equal(b.descrizione, "Un saggio.");
+  assert.equal(b.copertina, "https://is/img/400x400bb.jpg");
+  assert.equal(b.fonte, "Apple");
+});
+
+test("searchGoogle queries by isbn and returns normalized results", async () => {
   const fakeFetch = async (url) => {
     assert.match(url, /isbn(:|%3A)9788845900000/);
     return {
@@ -33,34 +54,56 @@ test("searchBooks queries Google by isbn and returns normalized results", async 
       })
     };
   };
-  const res = await searchBooks("9788845900000", { fetch: fakeFetch });
+  const res = await searchGoogle("9788845900000", { fetch: fakeFetch });
   assert.equal(res.length, 1);
   assert.equal(res[0].titolo, "T");
 });
 
-test("searchBooks falls back to Open Library when Google empty", async () => {
+test("searchBooks merges sources and dedupes by isbn", async () => {
   const fakeFetch = async (url) => {
     if (url.includes("googleapis")) {
-      return { ok: true, json: async () => ({ items: [] }) };
+      return {
+        ok: true,
+        json: async () => ({
+          items: [{
+            volumeInfo: {
+              title: "Stesso libro",
+              authors: ["A"],
+              industryIdentifiers: [{ type: "ISBN_13", identifier: "111" }],
+              imageLinks: {}
+            }
+          }]
+        })
+      };
     }
-    assert.match(url, /openlibrary\.org/);
-    return {
-      ok: true,
-      json: async () => ({
-        docs: [
-          {
-            title: "K-Hole",
-            author_name: ["Carlo Mazza Galanti"],
-            first_publish_year: 2021,
-            isbn: ["9788899999999"],
-            cover_i: 123
-          }
-        ]
-      })
-    };
+    if (url.includes("openlibrary")) {
+      return {
+        ok: true,
+        json: async () => ({
+          docs: [
+            { title: "Stesso libro", author_name: ["A"], isbn: ["111"] },
+            { title: "Altro libro", author_name: ["B"], isbn: ["222"] }
+          ]
+        })
+      };
+    }
+    // itunes
+    return { ok: true, json: async () => ({ results: [] }) };
   };
-  const res = await searchBooks("K-Hole", { fetch: fakeFetch });
+  const res = await searchBooks("qualcosa", { fetch: fakeFetch });
+  const isbns = res.map((b) => b.isbn).sort();
+  assert.deepEqual(isbns, ["111", "222"]); // duplicato 111 unito
+});
+
+test("searchBooks survives a failing source", async () => {
+  const fakeFetch = async (url) => {
+    if (url.includes("googleapis")) throw new Error("network down");
+    if (url.includes("openlibrary")) {
+      return { ok: true, json: async () => ({ docs: [{ title: "OK", author_name: ["B"], isbn: ["9"] }] }) };
+    }
+    return { ok: true, json: async () => ({ results: [] }) };
+  };
+  const res = await searchBooks("qualcosa", { fetch: fakeFetch });
   assert.equal(res.length, 1);
-  assert.equal(res[0].titolo, "K-Hole");
-  assert.equal(res[0].copertina, "https://covers.openlibrary.org/b/id/123-M.jpg");
+  assert.equal(res[0].titolo, "OK");
 });
