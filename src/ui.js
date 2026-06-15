@@ -97,11 +97,55 @@ export function initUI({ store, lookup, github, onChange }) {
     $("results").innerHTML = `<p class="a">Cerco…</p>`;
     try {
       const results = await lookup.searchBooks(q);
-      if (!results.length) $("results").innerHTML = `<p class="a">Nessun risultato.</p>`;
+      if (!results.length) showNoResults(q);
       else renderResults(results);
     } catch (e) {
-      $("results").innerHTML = `<p class="a">Errore ricerca: ${e.message}</p>`;
+      $("results").innerHTML = `<p class="a">Errore ricerca: ${e.message}</p> `;
+      showNoResults(q);
     }
+  }
+
+  function showNoResults(q) {
+    const box = $("results");
+    box.innerHTML += `<p class="a">Nessun risultato per "${q}".
+      <button class="btn ghost" id="manual-btn">Inserisci a mano</button></p>`;
+    $("manual-btn").onclick = () => openManual(q);
+  }
+
+  function openManual(q) {
+    const isIsbn = /^\d{10}(\d{3})?$/.test((q || "").replace(/[-\s]/g, ""));
+    const el = $("detail");
+    el.innerHTML = `<div class="panel glass">
+      <h2>Inserimento manuale</h2>
+      <input id="m-titolo" class="add-input" placeholder="Titolo" value="${isIsbn ? "" : (q || "")}" />
+      <input id="m-autori" class="add-input" placeholder="Autori (separati da virgola)" style="margin-top:8px" />
+      <input id="m-anno" class="add-input" placeholder="Anno" style="margin-top:8px" />
+      <input id="m-editore" class="add-input" placeholder="Editore" style="margin-top:8px" />
+      <input id="m-isbn" class="add-input" placeholder="ISBN" value="${isIsbn ? (q || "") : ""}" style="margin-top:8px" />
+      <input id="m-copertina" class="add-input" placeholder="URL copertina (opzionale)" style="margin-top:8px" />
+      <div style="display:flex;gap:8px;margin-top:14px">
+        <button class="btn" id="m-save">Aggiungi</button>
+        <button class="btn ghost" id="m-close">Annulla</button>
+      </div></div>`;
+    el.classList.remove("hidden");
+    $("m-close").onclick = () => el.classList.add("hidden");
+    $("m-save").onclick = async () => {
+      const titolo = $("m-titolo").value.trim();
+      if (!titolo) { $("m-titolo").focus(); return; }
+      await store.add({
+        titolo,
+        autori: $("m-autori").value.split(",").map((s) => s.trim()).filter(Boolean),
+        anno: $("m-anno").value.trim(),
+        editore: $("m-editore").value.trim(),
+        isbn: $("m-isbn").value.trim(),
+        copertina: $("m-copertina").value.trim(),
+        stato: activeFilter === "desideri" ? "desiderato" : "posseduto"
+      });
+      el.classList.add("hidden");
+      $("results").innerHTML = "";
+      $("add-input").value = "";
+      renderAll();
+    };
   }
 
   function openSettings() {
