@@ -1,5 +1,5 @@
 // Config is hardcoded by the user after forking. Edit these two lines:
-export const REPO_OWNER = "TUO_USERNAME";
+export const REPO_OWNER = "4rres";
 export const REPO_NAME = "libri";
 const FILE_PATH = "libri.json";
 const BRANCH = "main";
