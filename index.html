@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Libri</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar glass" id="sidebar"></aside>
+    <main class="main">
+      <header class="topbar glass">
+        <input id="add-input" class="add-input" placeholder="Aggiungi per ISBN o titolo…" />
+        <button id="add-btn" class="btn">Cerca</button>
+        <input id="filter-input" class="filter-input" placeholder="Filtra la collezione…" />
+        <button id="settings-btn" class="btn ghost">⚙︎</button>
+      </header>
+      <section id="results" class="results"></section>
+      <section id="grid" class="grid"></section>
+    </main>
+  </div>
+  <div id="detail" class="overlay hidden"></div>
+  <div id="settings" class="overlay hidden"></div>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
