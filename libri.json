@@ -105,5 +105,20 @@
     "stato": "posseduto",
     "letto": false,
     "aggiunto": "2026-06-16T00:16:18.389Z"
+  },
+  {
+    "id": "640b4e3e-25f4-414a-9740-40f52576d5ef",
+    "isbn": "",
+    "titolo": "20 lezioni su Giorgio Strehler",
+    "autori": [
+      "Bentoglio, Alberto"
+    ],
+    "copertina": "",
+    "editore": "",
+    "anno": "2020",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T00:30:04.841Z"
   }
 ]
