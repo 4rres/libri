@@ -13,5 +13,21 @@
     "stato": "posseduto",
     "letto": false,
     "aggiunto": "2026-06-16T00:11:27.325Z"
+  },
+  {
+    "id": "b6ec5112-0d23-4b8f-a188-7889cd574f2a",
+    "isbn": "",
+    "titolo": "Personal Writings",
+    "autori": [
+      "Albert Camus",
+      "Justin O'Brien"
+    ],
+    "copertina": "https://covers.openlibrary.org/b/id/14057087-M.jpg",
+    "editore": "",
+    "anno": "2020",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T00:11:42.634Z"
   }
 ]
