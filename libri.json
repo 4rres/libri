@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "30e05bd1-9b34-4c58-897b-7d112003a338",
+    "isbn": "",
+    "titolo": "Il bambino e le isole (un sogno di Calvino)",
+    "autori": [
+      "Marino Magliani"
+    ],
+    "copertina": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/b4/90/a8/b490a8a2-231b-dbae-b863-a6085a64ea7e/9788832972856.jpg/400x400bb.jpg",
+    "editore": "",
+    "anno": "2023",
+    "descrizione": "Un uomo mite, verso la fine della sua breve esistenza, giunge a Sanremo. Si chiama Walter Benjamin e ha con sé pochi bagagli, tra cui una valigia di libri illustrati. Nella città delle palme incontra un ragazzino curioso di nome Italo Calvino. I due si rivedranno tre o quattro volte e parleranno soprattutto di ciò che Walter vorrebbe fargli scrivere: la storia di un bambino e del suo pallone che si perde nei vicoli e oltrepassa i binari della ferrovia. Il bambino non ci sta a lasciare là quel bene così prezioso, e allo stesso tempo non può disubbidire all’ordine della madre: i binari non si attraversano. Che fare? Presto Walter e Italo si saluteranno e non si rivedranno mai più, ignorando che quel bambino, quel doppio evocato dalla fantasia, è diventato reale. E ha un solo modo per recuperare il pallone: seguire i binari, seguire il corso delle storie, cercarne la fine, a costo di metterci tutta una vita e anche di più. Un romanzo evocativo e struggente, un omaggio a quel sogno a occhi aperti che è la letteratura.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T00:11:27.325Z"
+  }
+]
