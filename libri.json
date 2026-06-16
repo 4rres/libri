@@ -120,5 +120,20 @@
     "stato": "posseduto",
     "letto": false,
     "aggiunto": "2026-06-16T00:30:04.841Z"
+  },
+  {
+    "id": "22fdab68-f834-4bbe-b276-622705a3cfbe",
+    "isbn": "",
+    "titolo": "Lo spirito della terra",
+    "autori": [
+      "Frank Wedekind"
+    ],
+    "copertina": "",
+    "editore": "",
+    "anno": "1956",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T00:31:48.665Z"
   }
 ]
