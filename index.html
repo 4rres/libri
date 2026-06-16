@@ -39,6 +39,14 @@
       window.addEventListener("load", () => {
         navigator.serviceWorker.register("sw.js").catch(() => {});
       });
+      // Quando un nuovo service worker prende il controllo, ricarica una volta
+      // per applicare subito gli aggiornamenti (niente versioni vecchie bloccate).
+      let refreshing = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
     }
     // Pulsante "Installa": appare quando Chrome lo consente.
     let deferredPrompt = null;
