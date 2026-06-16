@@ -2,8 +2,13 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Libri</title>
+  <meta name="theme-color" content="#ff6b35" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Libri" />
+  <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="32x32" href="public/favicon-32.png" />
   <link rel="icon" type="image/png" sizes="180x180" href="public/favicon.png" />
   <link rel="apple-touch-icon" href="public/apple-touch-icon.png" />
@@ -14,10 +19,12 @@
     <aside class="sidebar glass" id="sidebar"></aside>
     <main class="main">
       <header class="topbar glass">
+        <span class="brand">📚 Libri</span>
         <input id="add-input" class="add-input" placeholder="Aggiungi per ISBN o titolo…" />
         <button id="add-btn" class="btn">Cerca</button>
         <input id="filter-input" class="filter-input" placeholder="Filtra la collezione…" />
-        <button id="settings-btn" class="btn ghost">⚙︎</button>
+        <button id="install-btn" class="btn ghost hidden">Installa</button>
+        <button id="settings-btn" class="btn ghost" title="Impostazioni">⚙︎</button>
       </header>
       <section id="results" class="results"></section>
       <section id="grid" class="grid"></section>
@@ -26,5 +33,29 @@
   <div id="detail" class="overlay hidden"></div>
   <div id="settings" class="overlay hidden"></div>
   <script type="module" src="src/main.js"></script>
+  <script>
+    // Registrazione service worker (PWA installabile + offline).
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("sw.js").catch(() => {});
+      });
+    }
+    // Pulsante "Installa": appare quando Chrome lo consente.
+    let deferredPrompt = null;
+    const installBtn = document.getElementById("install-btn");
+    window.addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      installBtn.classList.remove("hidden");
+    });
+    installBtn.addEventListener("click", async () => {
+      if (!deferredPrompt) return;
+      deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+      deferredPrompt = null;
+      installBtn.classList.add("hidden");
+    });
+    window.addEventListener("appinstalled", () => installBtn.classList.add("hidden"));
+  </script>
 </body>
 </html>
