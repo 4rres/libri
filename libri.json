@@ -135,5 +135,2247 @@
     "stato": "desiderato",
     "letto": false,
     "aggiunto": "2026-06-16T00:31:48.665Z"
+  },
+  {
+    "id": "dd68cc9d-cee5-4f1f-ab0b-e8a06152049c",
+    "isbn": "",
+    "titolo": "Saremo leggeri",
+    "autori": [
+      "Albert Camus, Maria Casarès"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/dd68cc9d-cee5-4f1f-ab0b-e8a06152049c.jpg",
+    "editore": "Bompiani",
+    "anno": "2021",
+    "descrizione": "EDGT1786839",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "ec112963-f1b0-4e24-a333-c3ee24c50ba5",
+    "isbn": "",
+    "titolo": "L'altra parte",
+    "autori": [
+      "Kubin Alfred"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/ec112963-f1b0-4e24-a333-c3ee24c50ba5.jpg",
+    "editore": "",
+    "anno": "2013",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "3846426c-7bd4-4161-a14e-403d2f4e677b",
+    "isbn": "9788845970122",
+    "titolo": "Doppio sogno (Gli Adelphi) (Italian Edition)",
+    "autori": [
+      "Arthur Schnitzler"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/3846426c-7bd4-4161-a14e-403d2f4e677b.jpg",
+    "editore": "Adelphi",
+    "anno": "2011",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "5f4efed4-f297-4c96-9daf-ea6379d4fa26",
+    "isbn": "",
+    "titolo": "Colloqui con sé stesso",
+    "autori": [
+      "Marco Aurelio"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/5f4efed4-f297-4c96-9daf-ea6379d4fa26.jpg",
+    "editore": "Giunti",
+    "anno": "2017",
+    "descrizione": "EDGT1068908",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6da84e63-bbcf-4f55-b962-7dc65203796d",
+    "isbn": "9788822002310",
+    "titolo": "La poetica dello spazio",
+    "autori": [
+      "Gaston Bachelard"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6da84e63-bbcf-4f55-b962-7dc65203796d.jpg",
+    "editore": "Dedalo",
+    "anno": "2006",
+    "descrizione": "Qual è il luogo dove nasce la poesia? Una domanda che percorre tutta l'opera che Bachelard ha dedicato all'individuazione di quel luogo particolare, specifico, nel quale sorge l'immaginazione e si fa parola, verso. È uno spazio attraversato da alcuni grandi temi costanti: la vita, la morte, l'amore, la natura. Tra questi, Bachelard individua anche \"lo spazio\": quello aperto dei grandi orizzonti, del cielo, del mare, e quello chiuso, delimitato dalla casa. Uno spazio della \"immensità intima\", dove la nostra esperienza trova la sua dimora, il \"guscio\" entro cui riparare e ritrovarsi.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6f6490ae-075d-4d80-ad8e-6db07851d1bf",
+    "isbn": "",
+    "titolo": "Operatori e Cose",
+    "autori": [
+      "Barbara O’Brien"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6f6490ae-075d-4d80-ad8e-6db07851d1bf.jpg",
+    "editore": "Adelphi",
+    "anno": "2021",
+    "descrizione": "EDGT1891051",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1c9f004b-8dda-4851-a150-80a0526ee2b6",
+    "isbn": "9781101572481",
+    "titolo": "Where the Heart Beats: John Cage, Zen Buddhism, and the Inner Life of Artists",
+    "autori": [
+      "Kay Larson"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1c9f004b-8dda-4851-a150-80a0526ee2b6.jpg",
+    "editore": "The Penguin Press",
+    "anno": "2012",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "67210a1f-50be-479e-9faa-4feb061aa4e2",
+    "isbn": "9788858765739",
+    "titolo": "L'Alchimista",
+    "autori": [
+      "Paulo Coelho"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/67210a1f-50be-479e-9faa-4feb061aa4e2.jpg",
+    "editore": "Giunti",
+    "anno": "2014",
+    "descrizione": "Impara ad ascoltare il tuo cuore: è l'insegnamento che scaturisce da questa favola spirituale e magica. Alle frontiere tra il racconto da mille e una notte e l'apologo sapienziale, \"L'Alchimista\" è la storia di una iniziazione. Ne è protagonista Santiago, un giovane pastorello andaluso il quale, alla ricerca di un tesoro sognato, intraprende quel viaggio avventuroso, insieme reale e simbolico che, al di là dello Stretto di Gibilterra e attraverso tutto il deserto nordafricano, lo porterà fino all'Egitto delle Piramidi. E sarà proprio durante il viaggio che il giovane, grazie all'incontro con i",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "12a24bba-9631-427d-a8ed-13e93407a1bd",
+    "isbn": "9788865763544",
+    "titolo": "Prendila così",
+    "autori": [
+      "Joan Didion"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/12a24bba-9631-427d-a8ed-13e93407a1bd.jpg",
+    "editore": "il Saggiatore",
+    "anno": "2014",
+    "descrizione": "In un'esclusiva clinica neuropsichiatrica di Los Angeles Maria Wyeth, attrice fallita, ripensa alla sua vita, frammentata in episodi che appaiono ormai distanti e freddi come gli astri nella volta celeste. Dal deserto del Nevada alle colline di Hollywood, da modella a protagonista in film minori: la sua parabola è quella di una stella che non ha mai davvero brillato. Dopo anni di scelte sbagliate e di ferite emotive, Maria ha smesso di provare ogni sentimento e lascia che la vita le passi accanto. Anestetizza il dolore guidando per ore senza meta sulle autostrade della California, navigando ne",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a59e6cea-aade-4ff1-a346-b95e29f11b67",
+    "isbn": "",
+    "titolo": "Il sogno di un uomo ridicolo (Italian Edition)",
+    "autori": [
+      "Fedor Michailovic Dostoevskij"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a59e6cea-aade-4ff1-a346-b95e29f11b67.jpg",
+    "editore": "Edizioni Clandestine",
+    "anno": "2013",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "d4eb688f-c644-4a7b-9902-1fcd3138341e",
+    "isbn": "9788807490361",
+    "titolo": "Chronicles",
+    "autori": [
+      "Bob Dylan"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/d4eb688f-c644-4a7b-9902-1fcd3138341e.jpg",
+    "editore": "Simon & Schuster",
+    "anno": "2004",
+    "descrizione": "Il primo volume della trilogia autobiografica di Bob Dylan, dedicato agli anni della formazione e a quelli degli incontri decisivi, ricco di episodi inediti. Non costretto da gabbie cronologiche, il libro spazia dall'epoca del Greenwich Village alla fine degli anni Sessanta, fino agli Ottanta. Il tono dominante è la gratitudine per chi ha reso possibile che Bob Dylan fosse Bob Dylan: verso il poeta Archibald MacLeish, che indirettamente lo guida alla realizzazione di \"New Morning\", o verso Daniel Lanois, musicista e produttore che direttamente lo aiuta a creare \"Oh Mercy\". Woodstock, San Franc",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "59910a07-1066-4839-b47a-f8f72663ee99",
+    "isbn": "",
+    "titolo": "La casa del mago",
+    "autori": [
+      "Emanuele Trevi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/59910a07-1066-4839-b47a-f8f72663ee99.jpg",
+    "editore": "Ponte alle Grazie",
+    "anno": "2023",
+    "descrizione": "EDGT2179248",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "41f62627-601d-46c4-a2a4-75ce87dd2f58",
+    "isbn": "9788899253882",
+    "titolo": "Napoli mon amour",
+    "autori": [
+      "Alessio Forgione"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/41f62627-601d-46c4-a2a4-75ce87dd2f58.jpg",
+    "editore": "NNE.",
+    "anno": "2021",
+    "descrizione": "Amoresano vive a Napoli, ha trent'anni e non ha ancora trovato il suo posto nel mondo. Le sue giornate passano lente, tra la vita con i genitori, le partite del Napoli, le serate con l'amico Russo e la ricerca di un lavoro. Dopo l'ennesimo, grottesco colloquio, decide di dare fondo ai suoi risparmi e di farla finita. Un giorno, però, incontra una bellissima ragazza e se ne innamora. Questo incontro riaccende i suoi desideri e le sue speranze: vivere, essere felice, scrivere. E incontrare Raffaele La Capria, il suo mito letterario. Ma l'amore disperde ancora più velocemente energie e risorse, f",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "576ff0a4-598d-42fd-ae6d-24794196f1d0",
+    "isbn": "8845914062",
+    "titolo": "Carissimo Simenon, Mon cher Fellini. Carteggio di Federico Fellini e Georges Simenon",
+    "autori": [
+      "Georges Simenon",
+      "Federico Fellini"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/576ff0a4-598d-42fd-ae6d-24794196f1d0.jpg",
+    "editore": "Adelphi",
+    "anno": "1998",
+    "descrizione": "Con l'edizione del Festival di Cannes del 1960 si instaura una profonda amicizia: quella tra Fellini, che vinse con \"La dolce vita\" l'edizione del Festival di quell'anno, e lo scrittore Georges Simenon, allora presidente della giuria. Questo carteggio, che comprende tutte le lettere che Fellini e Simenon si scambiarono fra il 1960 e il 1989, è arricchito dalla lunga conversazione che i due ebbero in occasione dell'uscita di \"Casanova\" e che apparve sull'\"Express\" nel febbraio del 1977.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1a05b17c-c25f-45dd-9860-ad30ec1434fd",
+    "isbn": "",
+    "titolo": "La vegetariana (Italian Edition)",
+    "autori": [
+      "Han Kang"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1a05b17c-c25f-45dd-9860-ad30ec1434fd.jpg",
+    "editore": "Adelphi",
+    "anno": "2016",
+    "descrizione": "«Ho fatto un sogno» dice Yeong-hye, e da quel sogno di sangue e di boschi scuri nasce il suo rifiuto radicale di mangiare, cucinare e servire carne, che la famiglia accoglie dapprima con costernazione e poi con fastidio e rabbia crescenti. È il primo stadio di un distacco in tre atti, un percorso di trascendenza distruttiva che infetta anche coloro che sono vicini alla protagonista, e dalle convenzioni si allarga al desiderio, per abbracciare infine l'ideale di un'estatica dissoluzione nell'indifferenza vegetale. La scrittura cristallina di Han Kang esplora la conturbante bellezza delle forme ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "914f4617-f071-4611-bb13-e5fbbde5ffc0",
+    "isbn": "9788852032851",
+    "titolo": "L'arte dell'ozio (Mondadori)",
+    "autori": [
+      "Hermann Hesse"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/914f4617-f071-4611-bb13-e5fbbde5ffc0.jpg",
+    "editore": "Mondadori",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6722773c-e302-4224-a4b3-95b909d71158",
+    "isbn": "",
+    "titolo": "Narciso e Boccadoro",
+    "autori": [
+      "Hermann Hesse"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6722773c-e302-4224-a4b3-95b909d71158.jpg",
+    "editore": "",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "46061d3f-339d-4a1d-9ed9-44be6a5c8e94",
+    "isbn": "",
+    "titolo": "Le Cosmicomiche",
+    "autori": [
+      "Calvino Italo"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/46061d3f-339d-4a1d-9ed9-44be6a5c8e94.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "Le cosmicomiche è un raccolta di 12 racconti scritti da Italo Calvino tra il 1963 ed il 1964, in origine pubblicati per la maggior parte sui periodici Il caffè ed Il giorno, successivamente ripubblicati sotto forma di raccolta da Einaudi nel 1965. I racconti sono storie umoristiche e paradossali relative all'universo, all'evoluzione a tempo e spazio.Questa raccolta comprende solo i primi racconti di Calvino di questo genere. Una qualche confusione può essere ingenerata dal fatto che altre tre raccolte di racconti di Calvino Ti con zero (Einaudi, 1967), La memoria del mondo e altre storie cosmi",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4b035236-4b4d-4cf9-829e-598c23139d85",
+    "isbn": "",
+    "titolo": "La ragazza scomparsa",
+    "autori": [
+      "Shirley Jackson"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4b035236-4b4d-4cf9-829e-598c23139d85.jpg",
+    "editore": "Adelphi",
+    "anno": "2019",
+    "descrizione": "EDGT1053582",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "cfd9b441-fbb3-43e8-a8e9-9a91b6303ee1",
+    "isbn": "",
+    "titolo": "L'anno del pensiero magico",
+    "autori": [
+      "Joan Didion"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/cfd9b441-fbb3-43e8-a8e9-9a91b6303ee1.jpg",
+    "editore": "Il Saggiatore",
+    "anno": "2015",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "d87adb0c-6afb-48d7-8602-bb19fc736643",
+    "isbn": "",
+    "titolo": "Dove mi trovo",
+    "autori": [
+      "Jhumpa Lahiri"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/d87adb0c-6afb-48d7-8602-bb19fc736643.jpg",
+    "editore": "Guanda",
+    "anno": "2018",
+    "descrizione": "EDGT962237",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b310768b-b2cd-4713-be1a-bb6e6d74df2a",
+    "isbn": "",
+    "titolo": "Una storia semplice (Adelphi)",
+    "autori": [
+      "Leonardo Sciascia"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b310768b-b2cd-4713-be1a-bb6e6d74df2a.jpg",
+    "editore": "Adelphi",
+    "anno": "2020",
+    "descrizione": "0",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e36fd125-de86-4cd2-9e30-f6c104507fc9",
+    "isbn": "",
+    "titolo": "Cuore di cane",
+    "autori": [
+      "Bulgakov Michail"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e36fd125-de86-4cd2-9e30-f6c104507fc9.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "Storia di un bizzarro esperimento scientifico, che innesta su un cane randagio moscovita l'ipofisi di un uomo, il racconto denso di avventure ironiche e grottesche di un animale che scopre il mondo con la sensibilità di un essere umano. \"Cuore di cane\" fu scritto nel 1925, rimase inedito per decenni perché sequestrato dalla polizia segreta sovietica, venne ritrovato negli archivi del KGB dopo la morte dell'autore e finalmente pubblicato conquistò quindi l'apprezzamento dei lettori di tutto il mondo.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "892ed11d-2b45-4988-94ad-2fd6fcbed8fb",
+    "isbn": "",
+    "titolo": "L' anno della lepre",
+    "autori": [
+      "Arto Paasilinna"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/892ed11d-2b45-4988-94ad-2fd6fcbed8fb.jpg",
+    "editore": "Iperborea",
+    "anno": "2094",
+    "descrizione": "Giornalista quarantenne a Helsinki, Vatanen ha raggiunto quel momento dell’esistenza in cui di colpo ci si chiede quel “ma perché” che si è cercato sempre di reprimere, nascondendo a se stessi e agli altri che quel grigiore a cui si è arrivati a furia di rinunciare ai sogni, di accettare compromessi, di rassegnarsi al logoramento delle amicizie, del lavoro, degli amori, quel qualcosa in cui siamo rimasti impigliati e in cui non ci riconosciamo, è in realtà la nostra vita. Una sera, tornando in macchina da un servizio fuori città con un amico fotografo, investe una lepre, che fugge ferita nella",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "db8349d6-d378-4518-a22d-0c17f30d5bc0",
+    "isbn": "",
+    "titolo": "Le nozze di Cadmo e armonia",
+    "autori": [
+      "Calasso Roberto"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/db8349d6-d378-4518-a22d-0c17f30d5bc0.jpg",
+    "editore": "",
+    "anno": "2013",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "40936e33-19f9-4525-a7a0-45db81341fc9",
+    "isbn": "",
+    "titolo": "Costellazione familiare",
+    "autori": [
+      "Rosa Matteucci"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/40936e33-19f9-4525-a7a0-45db81341fc9.jpg",
+    "editore": "Adelphi",
+    "anno": "",
+    "descrizione": "EDGT311074",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "60cae5ef-eb8a-4e6b-94cc-1e9fd07294c1",
+    "isbn": "9788807722233",
+    "titolo": "L'Italia in Seconda Classe (Italian Edition)",
+    "autori": [
+      "Paolo Rumiz"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/60cae5ef-eb8a-4e6b-94cc-1e9fd07294c1.jpg",
+    "editore": "Feltrinelli Traveller",
+    "anno": "2009",
+    "descrizione": "\"Per una volta, ladies and gentlemen, non allacciatevi le cinture. Don't fasten your seat belts. Si parte in treno, la Cenerentola dei trasporti. Si fa l'Italia in seconda classe, per linee dimenticate. Buttate dunque a mare duty free, gate, flight, hostess e check-in. Lasciate le salette business a parlamentari e commendatur. Questo è un viaggio hard, fatto di scambi, pulegge, turbocompressori e carbone. E noi lo faremo, anche a costo di farci sbattere da una squinternata vagona baldracca, un glorioso rudere che cigola e scoreggia sulla rete di ferro, in attesa di rottamazione. \"In tasca, un'",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "eb00cbd5-080b-46cd-aaf7-474383f118f6",
+    "isbn": "9780744058727",
+    "titolo": "Steve the Bartender's Cocktail Guide",
+    "autori": [
+      "Steven Roennfeldt"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/eb00cbd5-080b-46cd-aaf7-474383f118f6.jpg",
+    "editore": "DK Publishing",
+    "anno": "",
+    "descrizione": "Pour yourself the perfect drink-or make a round for your guests.Making drinks at home has never been easier. In this guide to the perennial favorites and forgotten classics, YouTube's favorite Aussie mixologist Steve the Bartender shows you how to craft cocktails with ease. Approachable and unpretentious instructions ensure that every drink is simple and delicious. - Guidance on building a home bar, from the essential spirits to mixing equipment and glassware- 125 curated drink recipes for every occasion, from Manhattans to Mai Tais. - Photographs of every recipe and integrated QR codes linkin",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c96af896-b648-4181-9986-3cdcc3e4984b",
+    "isbn": "9788871685618",
+    "titolo": "La schiuma dei giorni",
+    "autori": [
+      "Boris Vian"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c96af896-b648-4181-9986-3cdcc3e4984b.jpg",
+    "editore": "Marcos y Marcos",
+    "anno": "1962",
+    "descrizione": "Colin è un giovane parigino ricco e annoiato. Passa il tempo dedicandosi a ricette inverosimili, strimpellando bizzarri strumenti di sua invenzione, bighellonando con Chick - il suo migliore amico - un ingegnere spiantato e sperperone che ha uno strano pallino: collezionare le opere di Jean-Sol Partre. Poi, nella vita del signorino entra, in modo esplosivo, l'amore. L'incontro con la bella Chloé è un colpo di fulmine: decidono di sposarsi nel giro di pochi giorni. Al ritorno dal viaggio di nozze, Chloè si ammala. Nei suoi polmoni si annida un male terribile, fatica a respirare. Mentre il tempo",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "89d95772-67a3-4a0d-ba99-49bf1f032a49",
+    "isbn": "",
+    "titolo": "Arcipelago N",
+    "autori": [
+      "Vittorio Lingiardi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/89d95772-67a3-4a0d-ba99-49bf1f032a49.jpg",
+    "editore": "Einaudi",
+    "anno": "2021",
+    "descrizione": "EDGT1664355",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "671c1b83-2a2d-4ad7-b998-52cdc3aaf45d",
+    "isbn": "",
+    "titolo": "Piccolo mondo perfetto",
+    "autori": [
+      "Kevin Wilson"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/671c1b83-2a2d-4ad7-b998-52cdc3aaf45d.jpg",
+    "editore": "Fazi Editore",
+    "anno": "2018",
+    "descrizione": "EDGT1000968",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "3c18edbf-d957-4c32-8687-959bb092e5fe",
+    "isbn": "",
+    "titolo": "A cosa servono i gatti",
+    "autori": [
+      "Paolo Nori",
+      "Andrea Antinori"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/3c18edbf-d957-4c32-8687-959bb092e5fe.jpg",
+    "editore": "Terre di mezzo",
+    "anno": "2021",
+    "descrizione": "EDGT1870811",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "02880ede-1a38-41ae-ae73-8861a78571f2",
+    "isbn": "9788858429778",
+    "titolo": "The Game",
+    "autori": [
+      "Alessandro Baricco"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/02880ede-1a38-41ae-ae73-8861a78571f2.jpg",
+    "editore": "Giulio Einaudi Editore",
+    "anno": "2018",
+    "descrizione": "Prima scena. Calciobalilla, flipper, videogioco. Prendetevi mezz'ora e passate dall'uno all'altro, in quest'ordine. Pensavate di giocare, invece avete attraversato lo spazio che separa una civiltà, quella analogica, da un'altra, quella digitale. Siete migrati in un mondo nuovo: leggero, veloce, immateriale. Seconda scena. Prendete l'icona che per secoli ha racchiuso in sé il senso della nostra civiltà: uomo-spada-cavallo. Confrontatela con questa: uomo-tastiera-schermo. E avrete di fronte agli occhi la mutazione in atto. Un sisma che ha ridisegnato la postura di noi umani in modo spettacolare.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "3dd3c2b4-51c0-48a1-b6c9-30205ea9fcf7",
+    "isbn": "9788897685753",
+    "titolo": "Almanacco 2025 - Sentimenti Emozioni Umori",
+    "autori": [
+      "doppiozero"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/3dd3c2b4-51c0-48a1-b6c9-30205ea9fcf7.jpg",
+    "editore": "doppiozero",
+    "anno": "2025",
+    "descrizione": "L'Almanacco 2025 di doppiozero, un dono per i nostri lettori, attraversa quel ginepraio di definizioni e di analisi che esiste intorno alle tre parole del titolo: sentimenti, emozioni, umori. Si tratta perlopiù di recensioni a libri apparsi nell’arco di quindici anni, interventi legati al tentativo di leggere la nostra contemporaneità usando vari strumenti, dalla psicologia alla psicoanalisi, dalla filosofia all’antropologia, e a volte partendo da fatti di cronaca, da eventi che hanno avuto un rilievo nella opinione pubblica, una attenzione momentanea ma che ci è parsa significativa, a cui i v",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "01bfb409-183b-43b2-81ce-834883852aa0",
+    "isbn": "",
+    "titolo": "Angeli E Demoni",
+    "autori": [
+      "Dan Brown"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/01bfb409-183b-43b2-81ce-834883852aa0.jpg",
+    "editore": "",
+    "anno": "2013",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6aa3c24c-4998-4810-ae2c-08e4f38ba4a1",
+    "isbn": "",
+    "titolo": "Bonjour tristesse",
+    "autori": [
+      "SAGAN Francoise"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6aa3c24c-4998-4810-ae2c-08e4f38ba4a1.jpg",
+    "editore": "Longanesi & C.",
+    "anno": "2015",
+    "descrizione": "… Cecilia, terribile diciassettenne francese in vacanza in una villa in prossimità di Nizza assieme al padre vedovo e alla sua amica Elsa, a cui presto si aggiunge l'affascinante Anna, che intende costruire una storia importante col padre, avvezzo al divertimento. Cecilia, benché sia succube del fascino e del carisma di Anna, trama contro il loro amore, riuscendo a riaccendere la passione di suo padre per la più giovane Elsa. Anna ne rimarrà sconvolta, e morirà in un incidente nel fuggir via dalla villa.Bonjour tristesse (in italiano, letteralmente,Buongiorno, tristezza) è il primo romanzo di ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "5b12b175-0b33-481d-b9bd-35226cb2c417",
+    "isbn": "9788806177393",
+    "titolo": "L' universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria",
+    "autori": [
+      "Brian Greene"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/5b12b175-0b33-481d-b9bd-35226cb2c417.jpg",
+    "editore": "Einaudi",
+    "anno": "2012",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "7cb40407-bda9-48f2-95e8-18fef459351c",
+    "isbn": "9788807888977",
+    "titolo": "Chuang Tzu",
+    "autori": [
+      "Augusto Shantena Sabbadini"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/7cb40407-bda9-48f2-95e8-18fef459351c.jpg",
+    "editore": "Feltrinelli",
+    "anno": "2017",
+    "descrizione": "Il Tao Te Ching e il Chuang Tzu sono i due testi fondamentali del taoismo. Risalgono entrambi al quarto secolo a.C. e hanno avuto un'influenza profonda su tutta la cultura cinese. Ciascuno dei due in uno stile proprio, è, oltre che un testo filosofico, un capolavoro letterario. Alla poetica densità degli aforismi del Tao Te Ching, si contrappone l'esuberante gusto di narrare del Chuang Tzu. Gli strumenti prediletti del suo autore (o dei suoi autori, perché quasi certamente il libro è un collage di contributi diversi) sono lo humor, l'ironia, il paradosso, la provocazione. I suoi aneddoti metto",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "437d733f-45fa-4b30-82e3-8853dc2dd5b7",
+    "isbn": "",
+    "titolo": "Canto del buio e della luce",
+    "autori": [
+      "Antonio Moresco"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/437d733f-45fa-4b30-82e3-8853dc2dd5b7.jpg",
+    "editore": "Feltrinelli Editore",
+    "anno": "2024",
+    "descrizione": "Evento inspiegabile, inconcepibile: la luce scompare a poco a poco dal mondo. Ma è proprio questo misterioso e crescente buio che permette di cogliere ciò che abbiamo sotto gli occhi ma non sappiamo e vogliamo vedere, di rileggere tutta la storia umana e i suoi saperi in modo completamente diverso. Perché solo nel buio è possibile vedere la luce. Canto del buio e della luce è frutto di un lavoro preparatorio di anni e dell’incontro esplosivo dell’autore con scienziati, matematici, musicisti, registi, pittori, linguisti, pubblicitari, ballerine, maghi, ipnotisti, esperte di moda, orafi, lavorat",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "cef2ba84-c97a-4617-96c0-012c3129c925",
+    "isbn": "",
+    "titolo": "L'ordine del tempo",
+    "autori": [
+      "Carlo Rovelli"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/cef2ba84-c97a-4617-96c0-012c3129c925.jpg",
+    "editore": "Adelphi",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "688a52cd-22aa-41bc-b775-347841df8753",
+    "isbn": "",
+    "titolo": "Cartagloria",
+    "autori": [
+      "Rosa Matteucci"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/688a52cd-22aa-41bc-b775-347841df8753.jpg",
+    "editore": "Adelphi",
+    "anno": "2025",
+    "descrizione": "EDGT2425271 Torna Rosa Matteucci, «impietosa, feroce cantatrice del “nonostante”», come la definì una volta Carlo Fruttero, accostandola ai mani di Céline, Beckett e Thomas Bernhard. Questo nuovo romanzo, in bilico, come gli altri, sull’illusorio crinale fra comico e tragico, inizia con l’affannosa, tormentosa aspirazione di lei bambina a ricevere, come tutte le sue antenate e le sue simili, la Prima Comunione, per proseguire con la morte di un padre molto amato – sebbene molto scapestrato – e la sua sciamannata sepoltura. Nella scrittura, straziata e al tempo stesso grottesca, di Rosa Matteuc",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "ffa8bbe7-ac07-45ff-922d-38668160d7e8",
+    "isbn": "",
+    "titolo": "Come abitare la Terra",
+    "autori": [
+      "Bruno Latour"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/ffa8bbe7-ac07-45ff-922d-38668160d7e8.jpg",
+    "editore": "EINAUDI",
+    "anno": "2024",
+    "descrizione": "EDGT2297597",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "cad55563-4e7a-4b1f-8dce-109f3840c627",
+    "isbn": "",
+    "titolo": "Cosa sappiamo davvero sull'amore",
+    "autori": [
+      "Anna Machin"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/cad55563-4e7a-4b1f-8dce-109f3840c627.jpg",
+    "editore": "DEAGOSTINI LIBRI",
+    "anno": "2024",
+    "descrizione": "EDGT2380507",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "712b8507-2daf-441f-a6a9-aca7dfd08ab9",
+    "isbn": "",
+    "titolo": "Cose che non voglio sapere",
+    "autori": [
+      "Deborah Levy"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/712b8507-2daf-441f-a6a9-aca7dfd08ab9.jpg",
+    "editore": "NN Editore",
+    "anno": "2024",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a7ab6a0a-6fbb-4f91-8055-4315307004f4",
+    "isbn": "9788870919264",
+    "titolo": "Cose spiegate bene - Le droghe, in sostanza",
+    "autori": [
+      "AA.VV."
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a7ab6a0a-6fbb-4f91-8055-4315307004f4.jpg",
+    "editore": "Iperborea",
+    "anno": "2022",
+    "descrizione": "Le droghe, in sostanza è il terzo numero di Cose spiegate bene, la rivista di carta del Post realizzata in collaborazione con Iperborea. Le sostanze che chiamiamo «droghe» sono tante e diverse, e i loro effetti variano molto a seconda delle dosi, delle caratteristiche di chi le assume e delle ragioni per cui lo fa. Per questo parlare delle droghe come se fossero tutte uguali è riduttivo e fuorviante. Inoltre ignora il fatto che la stessa sostanza che qualcuno usa per provare piacere e divertirsi, può essere utile a qualcun altro per i suoi effetti terapeutici: il confine tra «droghe», per come",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "fab8551c-05d7-4e1f-b097-a98b9d991842",
+    "isbn": "9788852035951",
+    "titolo": "Così parlò Zarathustra: Un libro per tutti e per nessuno (Oscar classici Vol. 553) (Italian Edition)",
+    "autori": [
+      "Friedrich Nietzsche"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/fab8551c-05d7-4e1f-b097-a98b9d991842.jpg",
+    "editore": "Mondadori",
+    "anno": "2013",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4f40feff-cd72-4cb9-9680-dbb25a33f5e5",
+    "isbn": "",
+    "titolo": "Can't and Won't: Stories",
+    "autori": [
+      "Davis, Lydia"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4f40feff-cd72-4cb9-9680-dbb25a33f5e5.jpg",
+    "editore": "Farrar, Straus and Giroux",
+    "anno": "2014",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1afc184d-c70f-4e61-a0f8-9d3579040ce2",
+    "isbn": "",
+    "titolo": "Death Valley",
+    "autori": [
+      "Melissa Broder"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1afc184d-c70f-4e61-a0f8-9d3579040ce2.jpg",
+    "editore": "NN Editore",
+    "anno": "2025",
+    "descrizione": "Death Valley è la storia di una donna che di fronte alla malattia si sottrae al ruolo di cura, ma anche a quello di testimone impotente del declino dei suoi cari. Melissa Broder torna con un romanzo intriso di umorismo e umanità, dove la fuga dalle paure più indicibili diventa comica e visionaria, e l’amore è sentimento e azione, desiderio e nostalgia, la stella che guida il cammino anche nelle notti più buie. «Se non mi fossi aggrappata all'umorismo tutte le volte che sono andata in pezzi, sarei già bella che morta». «Pensate alle Cronache di Narnia ma con un cactus al posto dell'armadio.» - ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1fc0317c-c42f-407e-8867-7e5b4f4d4c2f",
+    "isbn": "",
+    "titolo": "Di chi sono le case vuote?",
+    "autori": [
+      "Sconosciuto"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1fc0317c-c42f-407e-8867-7e5b4f4d4c2f.jpg",
+    "editore": "Adelphi",
+    "anno": "2021",
+    "descrizione": "EDGT1890582",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c555c6d7-4e6d-4cd4-a928-0e295cb95e5e",
+    "isbn": "",
+    "titolo": "Dieci trip. La nuova realtà degli psichedelici",
+    "autori": [
+      "Andy Mitchell"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c555c6d7-4e6d-4cd4-a928-0e295cb95e5e.jpg",
+    "editore": "EINAUDI",
+    "anno": "2025",
+    "descrizione": "EDGT2756535",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "7d9b4dd5-3bc2-485d-83b4-c7c38819487f",
+    "isbn": "",
+    "titolo": "Dieci Piccoli Indiani",
+    "autori": [
+      "Agatha Christie"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/7d9b4dd5-3bc2-485d-83b4-c7c38819487f.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "Un misterioso invito conduce 10 personaggi a soggiornare in un'incantevole villa situata su Nigger Island, una sperduta isola rocciosa a poche miglia dalla costa inglese. Il proprietario, pur non essendo presente, lascia ai propri ospiti ogni genere di comodità e di lusso ma anche un inquietante messaggio registrato su un grammofono che li accusa di essere tutti degli assassini... Quella che sembrava una rilassante vacanza si trasforma così in un terribile incubo poichè, ad uno ad uno, tutti gli invitati vengono uccisi da un killer tanto spietato e all'apparenza invisibile.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "916349fb-9e20-4d69-9ab8-e6b7ce5be4f2",
+    "isbn": "",
+    "titolo": "Felici i felici",
+    "autori": [
+      "Yasmina Reza"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/916349fb-9e20-4d69-9ab8-e6b7ce5be4f2.jpg",
+    "editore": "Adelphi",
+    "anno": "2020",
+    "descrizione": "EDGT3514",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e1b74e45-cd54-4529-84a0-bfb6ec4a4c29",
+    "isbn": "6602474637075",
+    "titolo": "Ferrovie del Messico",
+    "autori": [
+      "Gian Marco Griffi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e1b74e45-cd54-4529-84a0-bfb6ec4a4c29.jpg",
+    "editore": "Laurana Editore",
+    "anno": "2022",
+    "descrizione": "Se cercate dell'avventura, in questo romanzo ne troverete a bizzeffe. Se cercate della letteratura, con questo romanzo ne farete una scorpacciata. I luoghi e i tempi: Asti, Repubblica Sociale Italiana, febbraio 1944; su e giù per le ferrovie del Messico, tra gli anni Venti e gli anni Trenta del secolo scorso. I personaggi (non tutti): Cesco Magetti, milite della Guardia nazionale repubblicana ferroviaria, tormentato dal mal di denti, incaricato di compilare una mappa delle ferrovie del Messico (l'ordine viene dall'alto, molto dall'alto); Tilde Giordano, ragazza bellissima e folle, imbevuta di ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "59845b5f-7561-46f3-9684-39f874471416",
+    "isbn": "9788852068850",
+    "titolo": "Fiabe italiane",
+    "autori": [
+      "Italo Calvino"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/59845b5f-7561-46f3-9684-39f874471416.jpg",
+    "editore": "Edizioni Mondadori",
+    "anno": "2015",
+    "descrizione": "\"Io credo questo: le fiabe sono vere, sono, prese tutte insieme, nella loro sempre ripetuta e sempre varia casistica di vicende umane, una spiegazione generale della vita, nata in tempi remoti e serbata nel lento ruminio delle coscienze contadine fino a noi; sono il catalogo dei destini che possono darsi a un uomo e a una donna\". (Italo Calvino) Un viaggio attraverso l'Italia delle regioni in duecento favole tratte dalla tradizione orale.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4e5c082b-0f36-4998-9a7a-7344e9f277d5",
+    "isbn": "9788850241910",
+    "titolo": "Keyes Daniel - 1966 - Fiori per Algernon",
+    "autori": [
+      "Keyes Daniel"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4e5c082b-0f36-4998-9a7a-7344e9f277d5.jpg",
+    "editore": "TEA",
+    "anno": "2016",
+    "descrizione": "Algernon è un topo, ma non è un topo qualunque. Con un'audace operazione, uno scienziato ha triplicato il suo IQ, rendendolo forse più intelligente di alcuni esseri umani. Di certo più di Charlie Gordon che, fino all'età di trentadue anni, ha vissuto nella dolorosa consapevolezza di non essere molto... sveglio. Ma cosa succede quando quella stessa operazione viene effettuata su Charlie? Il diario di un uomo che \"voleva soltanto essere come gli altri\".",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "fb2914cf-58b9-464e-a88d-c541a4b6d12c",
+    "isbn": "9788845976216",
+    "titolo": "Bennett Alan - 2012 - Gente",
+    "autori": [
+      "Alan Bennett"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/fb2914cf-58b9-464e-a88d-c541a4b6d12c.jpg",
+    "editore": "Adelphi Edizioni spa",
+    "anno": "2015",
+    "descrizione": "Tre anziane, eccentriche signore, una cadente dimora di campagna, e il problema di metterla a reddito. Come? Una soluzione: far intervenire l'onni­pre­sente National Trust, se non fosse che il suo e­missario si è rivelato un po' troppo entusiasta di certi vecchi pitali e del loro utilizzo da parte di alcune, antiche, celebrità. Molto meglio, per il momento, andare sul sicuro, cioè accettare l'offerta di un produttore, che in cambio di parecchio denaro chiede soltanto di rimanere in un angolo, mentre la sua troupe sistema il set del film che si accinge a girare: un porno, naturalmente. L'ultimo",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0391d4f5-d1c6-451b-b3a8-6fbf602826e6",
+    "isbn": "9788838942570",
+    "titolo": "I miei stupidi intenti",
+    "autori": [
+      "Bernardo Zannoni"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0391d4f5-d1c6-451b-b3a8-6fbf602826e6.jpg",
+    "editore": "Sellerio",
+    "anno": "2022",
+    "descrizione": "Questa è la lunga vita di una faina, raccontata di suo pugno. Fra gli alberi dei boschi, le colline erbose, le tane sotterranee e la campagna soggiogata dall’uomo, si svela la storia di un animale diverso da tutti. Archy nasce una notte d’inverno, assieme ai suoi fratelli: alla madre hanno ucciso il compagno, e si ritrova a doverli crescere da sola. Gli animali in questo libro parlano, usano i piatti per il cibo, stoviglie, tavoli, letti, accendono fuochi, ma il loro mondo rimane una lotta per la sopravvivenza, dura e spietata, come d’altronde è la natura. Sono mossi dalle necessità e dall’ist",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "03bfab31-1164-489d-a8d2-7e8df4a24e49",
+    "isbn": "",
+    "titolo": "Il giovane Holden",
+    "autori": [
+      "Jerome David Salinger"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/03bfab31-1164-489d-a8d2-7e8df4a24e49.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "f8560e05-5826-40fe-8295-c9b3c0d1308d",
+    "isbn": "",
+    "titolo": "Il Signore delle mosche",
+    "autori": [
+      "William Golding"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/f8560e05-5826-40fe-8295-c9b3c0d1308d.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0e52c194-10a4-440c-bf43-1268d36f02b3",
+    "isbn": "",
+    "titolo": "Il cuore segreto di orologio. Quaderni di appunti 1973-1985",
+    "autori": [
+      "Elias Canetti"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0e52c194-10a4-440c-bf43-1268d36f02b3.jpg",
+    "editore": "",
+    "anno": "2014",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "747d1da0-8967-4737-beae-009ae4ad5abb",
+    "isbn": "",
+    "titolo": "Il fu Mattia Pascal",
+    "autori": [
+      "Luigi Pirandello"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/747d1da0-8967-4737-beae-009ae4ad5abb.jpg",
+    "editore": "",
+    "anno": "2017",
+    "descrizione": "La celebre vicenda di Mattia Pascal, destinato a scoprire a sue spese l'impossibilità di vivere una nuova esistenza, nel capolavoro dello scrittore siciliano. Il romanzo più letto di Pirandello (1867-1936)",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "ac56bd4d-3218-42e3-a455-543416316b69",
+    "isbn": "9788845976926",
+    "titolo": "Il gioco del panino",
+    "autori": [
+      "Alan Bennett"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/ac56bd4d-3218-42e3-a455-543416316b69.jpg",
+    "editore": "Adelphi",
+    "anno": "2016",
+    "descrizione": "«È l'unica parte della mia vita che mi sembra giusta... ed è quella sbagliata». Nel tentativo di evitare gli spoiler, non diremo a cosa si riferisce l'addetto alle pulizie che è il protagonista del \"Gioco\". Ma la sua situazione è simile a quella in cui si trovano, negli altri monologhi di questa raccolta, la commessa di un grande magazzino, l'impeccabile casalinga probabilmente all'oscuro dei molti e sanguinosi misfatti del marito, l'antiquaria che si lascia sfuggire, per avidità, il colpaccio della vita, e altri ancora: un punto di svolta, dove esistenze fino a quel momento anonime si squarci",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "19913315-4c0e-40aa-a71f-e32f986f4432",
+    "isbn": "",
+    "titolo": "Il posto",
+    "autori": [
+      "Annie Ernaux"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/19913315-4c0e-40aa-a71f-e32f986f4432.jpg",
+    "editore": "L'orma editore",
+    "anno": "2014",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2454e0c3-16d9-4ca8-adb2-1764706a29d1",
+    "isbn": "9788806156909",
+    "titolo": "Il teatro e il suo doppio",
+    "autori": [
+      "Antonin Artaud"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2454e0c3-16d9-4ca8-adb2-1764706a29d1.jpg",
+    "editore": "Einaudi",
+    "anno": "2000",
+    "descrizione": "Questo volume vuole presentare l’essenziale del pensiero di Artaud nelle sue applicazioni al teatro. Vi figurano oltre al testo ormai classico Il teatro e il suo doppio altri scritti che completano l’immagine del teatro in Artaud: progetti drammatici, progetti di messa in scena, cronache drammatiche, recensioni, articoli.Le idee teatrali di Artaud hanno aperto un campo di esperienze e di ricerche, intorno ad alcune rivendicazioni fondamentali: sollevazione contro la dittatura del testo, coinvolgimento del pubblico, mobilitazione di tutte le energie fisiche attive nello spettacolo e loro codifi",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "487333bd-94da-43d8-9502-6b39cbb022c6",
+    "isbn": "",
+    "titolo": "Intermezzo",
+    "autori": [
+      "Sally Rooney"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/487333bd-94da-43d8-9502-6b39cbb022c6.jpg",
+    "editore": "EINAUDI",
+    "anno": "2024",
+    "descrizione": "EDGT2297590",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "245f5291-f965-44f9-b584-b370d25dd74f",
+    "isbn": "",
+    "titolo": "L'anniversario",
+    "autori": [
+      "Andrea Bajani"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/245f5291-f965-44f9-b584-b370d25dd74f.jpg",
+    "editore": "Feltrinelli Editore",
+    "anno": "2025",
+    "descrizione": "EDGT2396162",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2a144842-b358-4d02-9024-02ae8f7893de",
+    "isbn": "8845905500",
+    "titolo": "La Tentazione Di Esistere",
+    "autori": [
+      "Emil M. Cioran",
+      "L. Colasanti",
+      "C. Laurenti"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2a144842-b358-4d02-9024-02ae8f7893de.jpg",
+    "editore": "Adelphi",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2be3d4ef-919e-41d2-bc24-4d8f637cff5f",
+    "isbn": "",
+    "titolo": "La carne",
+    "autori": [
+      "Emma Glass"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2be3d4ef-919e-41d2-bc24-4d8f637cff5f.jpg",
+    "editore": "il Saggiatore",
+    "anno": "2018",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9771436b-c953-4f22-ae7c-463599187583",
+    "isbn": "",
+    "titolo": "La crisi della narrazione",
+    "autori": [
+      "Byung-chul Han"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9771436b-c953-4f22-ae7c-463599187583.jpg",
+    "editore": "EINAUDI",
+    "anno": "2024",
+    "descrizione": "EDGT2223557",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "ac69e710-1f62-4756-bee7-0a04e85376ec",
+    "isbn": "",
+    "titolo": "La morte dell impiegato",
+    "autori": [
+      "Andrea Vitali"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/ac69e710-1f62-4756-bee7-0a04e85376ec.jpg",
+    "editore": "",
+    "anno": "2010",
+    "descrizione": "Emmebooks 38 Racconto breve di Andrea Vitali, illustrato da Giancarlo Vitali con disegni all'acquerello, al carboncino e alla sanguigna, pubblicato in tiratura limitata e fuori commercio",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1493bde7-df8b-413e-84e0-6b1b464a42e8",
+    "isbn": "",
+    "titolo": "La parete",
+    "autori": [
+      "Marlen Haushofer"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1493bde7-df8b-413e-84e0-6b1b464a42e8.jpg",
+    "editore": "eBL - 2016",
+    "anno": "2016",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9f5f3972-3db4-4d55-8f55-be03cee67bbe",
+    "isbn": "9788875213107",
+    "titolo": "La ragazza dai capelli strani",
+    "autori": [
+      "David Foster Wallace"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9f5f3972-3db4-4d55-8f55-be03cee67bbe.jpg",
+    "editore": "Minimum Fax",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "f0831443-7a88-45b7-bdb9-9a69db894c81",
+    "isbn": "",
+    "titolo": "La settimana verde",
+    "autori": [
+      "Veggy Mrs."
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/f0831443-7a88-45b7-bdb9-9a69db894c81.jpg",
+    "editore": "Mondadori",
+    "anno": "2024",
+    "descrizione": "EDGT2367841",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b6975548-dd56-4a71-b4ee-11e73f8f1ce0",
+    "isbn": "",
+    "titolo": "La variabile Rachel",
+    "autori": [
+      "Caroline O'Donoghue"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b6975548-dd56-4a71-b4ee-11e73f8f1ce0.jpg",
+    "editore": "NN Editore",
+    "anno": "2024",
+    "descrizione": "Rachel vive a Cork, in Irlanda, ha vent’anni e si paga gli studi lavorando in libreria; è alta e un po’ goffa, ma brillante e piena di risorse. Diventa coinquilina di James, sfrontato e intelligente, e tra loro nasce un’amicizia intensa e totale come un colpo di fulmine. Finché Rachel non rivela a James di avere una cotta per il suo professore di Letteratura, Fred Byrne. L’amico la aiuta a elaborare un piano per sedurlo, ma le cose non vanno come previsto: il professore si innamora di James, e allo stesso tempo Rachel inizia uno stage nella casa editrice di Deenie, l’ignara moglie di Byrne. Ra",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c89092c6-7f29-4014-b8c6-39e86609dbfe",
+    "isbn": "9788806173951",
+    "titolo": "Lamento Di Portnoy",
+    "autori": [
+      "Philip Roth"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c89092c6-7f29-4014-b8c6-39e86609dbfe.jpg",
+    "editore": "Einaudi",
+    "anno": "1989",
+    "descrizione": "Alex Portnoy ha trentrè anni ed è commissario aggiunto della Commissione per lo sviluppo delle risorse umane del Comune di New York. Nel lavoro è abile, intransigente, stimato. Il libro riporta il monologo di Alex che, dall'analista ripercorre la sua vita per capire perché è travolto dai desideri che ripugnano alla \"mia coscienza e da una coscienza che ripugna ai miei desideri\".",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4e97401d-f4ef-439e-a70c-8804d2a2c533",
+    "isbn": "",
+    "titolo": "Le armi nascoste della manipolazione",
+    "autori": [
+      "Christophe Carré"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4e97401d-f4ef-439e-a70c-8804d2a2c533.jpg",
+    "editore": "Feltrinelli Editore",
+    "anno": "2018",
+    "descrizione": "Per interesse, perversione o per errore, ma a volte semplicemente a fin di bene, la manipolazione è ovunque. Perché tutti, in fondo, manipolano tutti!",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "5afc1267-93ba-481b-b217-26c4c17e14ea",
+    "isbn": "",
+    "titolo": "Le inseparabili",
+    "autori": [
+      "Simone De Beauvoir"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/5afc1267-93ba-481b-b217-26c4c17e14ea.jpg",
+    "editore": "Ponte alle Grazie",
+    "anno": "2020",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "63901192-1e39-4b63-8ca5-67d242c1c6c0",
+    "isbn": "9788811019787",
+    "titolo": "Le lezioni della storia",
+    "autori": [
+      "Edgar Morin"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/63901192-1e39-4b63-8ca5-67d242c1c6c0.jpg",
+    "editore": "Garzanti",
+    "anno": "2025",
+    "descrizione": "EDGT2790214 Quante erano le probabilità che Atene, piccola città-stato della Grecia classica, trionfasse nella battaglia di Maratona sconfiggendo l’apparentemente imbattibile impero persiano? Chi, nel 1789, avrebbe mai previsto che un semplice tenente sarebbe diventato prima il vittorioso generale delle campagne d’Italia e poi l’imperatore dei francesi, dominando quasi tutta l’Europa per quindici anni? E di certo nessuno, nel 1914, immaginava che l’assassinio dell’arciduca ereditario d’Austria potesse innescare la reazione a catena che portò a un sanguinoso conflitto destinato a durare oltre q",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "82d49e78-b16e-4f8e-9b00-ace9a9db8df4",
+    "isbn": "9788899253509",
+    "titolo": "Le nostre anime di notte",
+    "autori": [
+      "Kent Haruf"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/82d49e78-b16e-4f8e-9b00-ace9a9db8df4.jpg",
+    "editore": "NN",
+    "anno": "2017",
+    "descrizione": "È nella cittadina di Holt, Colorado, che un giorno Addie Moore rende una visita inaspettata al vicino di casa, Louis Waters. I due sono entrambi in là con gli anni, vedovi, e le loro giornate si sono svuotate di incombenze e occasioni. La proposta di Addie è scandalosa e diretta: vuoi passare le notti da me?Inizia così una storia di intimità, amicizia e amore, fatta di racconti sussurrati alla luce delle stelle e piccoli gesti di premura. Ma la comunità di Holt non accetta la relazione di Addie e Louis, che considera inspiegabile, ribelle e spregiudicata. E i due protagonisti si trovano a dove",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a1ac8a56-cb8d-4cf0-a97f-6dad04536b58",
+    "isbn": "",
+    "titolo": "Le perfezioni",
+    "autori": [
+      "Vincenzo Latronico"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a1ac8a56-cb8d-4cf0-a97f-6dad04536b58.jpg",
+    "editore": "Bompiani",
+    "anno": "2022",
+    "descrizione": "EDGT1913414",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e9b146b0-d834-485c-ae5c-0aa62dc85a36",
+    "isbn": "9780593318492",
+    "titolo": "Let Me Tell You What I Mean",
+    "autori": [
+      "Joan Didion"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e9b146b0-d834-485c-ae5c-0aa62dc85a36.jpg",
+    "editore": "Knopf Doubleday Publishing Group",
+    "anno": "2021",
+    "descrizione": "From one of our most iconic and influential writers: a timeless collection of mostly early pieces that reveal what would become Joan Didion's subjects, including the press, politics, California robber barons, women, and her own self-doubt.These twelve pieces from 1968 to 2000, never before gathered together, offer an illuminating glimpse into the mind and process of a legendary figure. They showcase Joan Didion's incisive reporting, her empathetic gaze, and her role as \"an articulate witness to the most stubborn and intractable truths of our time\" (The New York Times Book Review). Here, Didion",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b8bfbb03-e73d-4d4e-9d29-71ee2198ee93",
+    "isbn": "9788811675013",
+    "titolo": "Lezioni di letteratura russa. Un lettore d'eccezione ci guida alla scoperta dei capolavori di Gogol, Turgenev, Dostoevskij, Tolstoj, Cechov e Gorkij",
+    "autori": [
+      "Vladimir Nabokov"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b8bfbb03-e73d-4d4e-9d29-71ee2198ee93.jpg",
+    "editore": "Garzanti Libri",
+    "anno": "1994",
+    "descrizione": "Questo volume raccoglie le lezioni dedicate alla grande letteratura russa, tenute da Nabokov in diverse università americane dopo gli anni Quaranta, fino a quando il successo di Lolita non lo liberò dagli obblighi dell'insegnamento.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9a365863-34db-490e-a036-92cfd20a795f",
+    "isbn": "9788852016349",
+    "titolo": "Lo potevo fare anch'io",
+    "autori": [
+      "Francesco Bonami"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9a365863-34db-490e-a036-92cfd20a795f.jpg",
+    "editore": "Mondadori",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "118569e0-44b7-4199-b33d-0f66b120153e",
+    "isbn": "",
+    "titolo": "Manuale di conversazione",
+    "autori": [
+      "Achille Campanile"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/118569e0-44b7-4199-b33d-0f66b120153e.jpg",
+    "editore": "",
+    "anno": "2011",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "dd5abc12-28b1-4e26-adfb-b397f8d706e7",
+    "isbn": "9788806174996",
+    "titolo": "Memorie d'una ragazza perbene",
+    "autori": [
+      "Simone de Beauvoir"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/dd5abc12-28b1-4e26-adfb-b397f8d706e7.jpg",
+    "editore": "Einaudi",
+    "anno": "2005",
+    "descrizione": "In “Memorie d’una ragazza perbene”, infanzia e prima giovinezza costituiscono la trama quasi romanzesca di una biografia interrotta. Le tappe obbligate di un’educazione sentimentale, l’inevitabile scontro con la famiglia e l’ambiente sociale dell’alta borghesia francese conservatrice e bigotta, i meschini pregiudizi d’un mondo al declino, il decoro e i velluti, gli sguardi oppressivi del parentado, le fragili amicizie, e infine il cugino eccentrico e libero che squarcia quegli ipocriti orizzonti domestici… Ed ecco i primi dubbi, i contrasti sentimentali, le tensioni che accompagnano questo lun",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2b70e4ad-7d00-4952-8e7c-0b1960566479",
+    "isbn": "9788845930881",
+    "titolo": "Michon Pierre - 1984 - Vite minuscole",
+    "autori": [
+      "Michon Pierre"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2b70e4ad-7d00-4952-8e7c-0b1960566479.jpg",
+    "editore": "Adelphi",
+    "anno": "2019",
+    "descrizione": "Vite minuscole esce in Francia nel 1984. E il primo libro di uno scrittore ignoto al milieu letterario, ma è subito chiaro che si tratta di un esordio folgorante. E audace: recuperando una tradizione che risale a Plutarco, a Suetonio, all’agiografia, Michon ci racconta le vite di dieci personaggi non già illustri o esemplari, ma, appunto, minuscoli: e dunque votati all’oblio se non intervenisse a riscattarli una lingua sontuosa, di inusitata e abbagliante bellezza, capace di «trasformare la carne morta in testo e la sconfitta in oro». Vite come quella dell’antenato Alain Dufourneau, l’orfano c",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "ce2bf271-26fa-4b95-8446-995df25a941c",
+    "isbn": "",
+    "titolo": "Napoli ferrovia",
+    "autori": [
+      "Ermanno Rea"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/ce2bf271-26fa-4b95-8446-995df25a941c.jpg",
+    "editore": "Feltrinelli Editore",
+    "anno": "2024",
+    "descrizione": "EDGT2221718",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2c4693a0-1aff-4610-97f8-4605223a3b41",
+    "isbn": "",
+    "titolo": "Nei sogni cominciano le responsabilita",
+    "autori": [
+      "Schwartz, Delmore"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2c4693a0-1aff-4610-97f8-4605223a3b41.jpg",
+    "editore": "",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "511fe8e3-8436-44b8-854c-458bca300ec1",
+    "isbn": "",
+    "titolo": "Nudi e crudi",
+    "autori": [
+      "Alan Bennett"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/511fe8e3-8436-44b8-854c-458bca300ec1.jpg",
+    "editore": "Adelphi",
+    "anno": "",
+    "descrizione": "Version 60565 - 2012-04-16 10:34:49 +0200",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a8065078-bd44-47c2-940b-e3c5367e1884",
+    "isbn": "",
+    "titolo": "Operazione Shylock",
+    "autori": [
+      "Philip Roth"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a8065078-bd44-47c2-940b-e3c5367e1884.jpg",
+    "editore": "Giulio Einaudi Editore",
+    "anno": "2013",
+    "descrizione": "In questo libro perversamente ingegnoso (che potrebbe o meno essere un libro di fiction), Philip Roth incontra un uomo che potrebbe o meno essere Philip Roth. Perché qualcuno con quel nome sta girando per Israele, promuovendo un bizzarro esodo alla rovescia degli ebrei. Roth è deciso a fermarlo, anche se questo significa impersonare il proprio impersonatore. Con una suspense straziante, speculazioni filosofiche sfrenate e un cast di personaggi che include agenti dei servizi segreti israeliani, esuli palestinesi, un criminale di guerra sotto accusa e la seducente fondatrice di un'organizzazione",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "02618657-1565-49da-86d8-8952eda09892",
+    "isbn": "",
+    "titolo": "Palestina 2048",
+    "autori": [
+      "AA.VV. - a cura di Basma Ghalayini"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/02618657-1565-49da-86d8-8952eda09892.jpg",
+    "editore": "Lorusso Editore",
+    "anno": "2021",
+    "descrizione": "Traduzione di Federica Pistono Postfazione di Valerio Evangelisti",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c916f254-39ee-47aa-b667-cd85c6259f26",
+    "isbn": "",
+    "titolo": "Quattro quartetti",
+    "autori": [
+      "T.S. Eliot"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c916f254-39ee-47aa-b667-cd85c6259f26.jpg",
+    "editore": "Bompiani",
+    "anno": "2022",
+    "descrizione": "EDGT2000551",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "3ba3c5d8-269c-4cfa-ad1a-53bd62912793",
+    "isbn": "",
+    "titolo": "Questa mia carne",
+    "autori": [
+      "Melissa Febos"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/3ba3c5d8-269c-4cfa-ad1a-53bd62912793.jpg",
+    "editore": "nottetempo",
+    "anno": "2024",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a3f35c5b-927a-4039-b9df-14d0d0abce68",
+    "isbn": "",
+    "titolo": "Racconti impossibili",
+    "autori": [
+      "Tommaso Landolfi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a3f35c5b-927a-4039-b9df-14d0d0abce68.jpg",
+    "editore": "Adelphi",
+    "anno": "2021",
+    "descrizione": "EDGT2069902",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "f6a35fb4-fcc2-4544-9139-f057eac830e3",
+    "isbn": "",
+    "titolo": "Realismo capitalista",
+    "autori": [
+      "Fisher, Mark"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/f6a35fb4-fcc2-4544-9139-f057eac830e3.jpg",
+    "editore": "",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "cc0e0b92-09b8-4b40-b156-d3cd54191866",
+    "isbn": "",
+    "titolo": "Signore e signori",
+    "autori": [
+      "Alan Bennett"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/cc0e0b92-09b8-4b40-b156-d3cd54191866.jpg",
+    "editore": "Adelphi",
+    "anno": "2020",
+    "descrizione": "EDGT482306",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "36164e3e-9e92-4526-a478-81ece1aaaef1",
+    "isbn": "",
+    "titolo": "Simboli e interpretazione dei sogni",
+    "autori": [
+      "Carl Gustav Jung"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/36164e3e-9e92-4526-a478-81ece1aaaef1.jpg",
+    "editore": "Bollati Boringhieri",
+    "anno": "2021",
+    "descrizione": "EDGT1727538",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e4555ba5-e7ee-4922-b0bf-04284bae9476",
+    "isbn": "9788838908644",
+    "titolo": "Sogni di sogni",
+    "autori": [
+      "Antonio Tabucchi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e4555ba5-e7ee-4922-b0bf-04284bae9476.jpg",
+    "editore": "Sellerio",
+    "anno": "1992",
+    "descrizione": "I sogni di Dedalo, Ovidio, Apuleio, Cecco Angiolieri, Villon, Rabelais, Caravaggio, Goya, Coleridge, Leopardi, Collodi, Stevenson, Rimbaud, Cechov, Debussy, Toulouse-Lautrec, Pessoa, Majakovskij, García Lorca, Freud. Un libro che è un azzardo, una supposizione e un'ipotesi, e insieme un fervido omaggio a venti artisti amati da uno scrittore di oggi.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9bbb1cfb-f6d0-49ca-a6bf-04d64d3acc03",
+    "isbn": "",
+    "titolo": "Storia dei miei peli",
+    "autori": [
+      "Lavinia Mannelli"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9bbb1cfb-f6d0-49ca-a6bf-04d64d3acc03.jpg",
+    "editore": "66thand2nd",
+    "anno": "2024",
+    "descrizione": "EDGT2737645",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "a16879d3-91d8-4313-b045-6fd046235893",
+    "isbn": "9788807019210",
+    "titolo": "Storia di un corpo",
+    "autori": [
+      "Daniel Pennac"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/a16879d3-91d8-4313-b045-6fd046235893.jpg",
+    "editore": "Feltrinelli",
+    "anno": "2012",
+    "descrizione": "3 agosto 2010. Tornata a casa dopo il funerale del padre, Lison si vede consegnare un pacco, un regalo post mortem del defunto genitore: è un curioso diario del corpo che lui ha tenuto dall'età di dodici anni fino agli ultimi giorni della sua vita. Al centro di queste pagine regna, con tutta la sua fisicità, il corpo dell'io narrante che ci accompagna nel mondo, facendocelo scoprire attraverso i sensi: la voce stridula della madre anaffettiva, l'odore dell'amata tata Violette, il sapore del caffè di cicoria degli anni di guerra, il profumo asprigno della merenda povera a base di pane e mosto d",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "705e1978-b5af-4e19-bedb-4083714dd051",
+    "isbn": "",
+    "titolo": "Storie naturali",
+    "autori": [
+      "Primo Levi"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/705e1978-b5af-4e19-bedb-4083714dd051.jpg",
+    "editore": "",
+    "anno": "2016",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6b70f72e-cbdd-4b64-bca8-0f37656485d0",
+    "isbn": "9788896450161",
+    "titolo": "Story. Contenuti, struttura, stile, principi per la sceneggiatura e per l'arte di scrivere storie",
+    "autori": [
+      "Robert McKee"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6b70f72e-cbdd-4b64-bca8-0f37656485d0.jpg",
+    "editore": "Omero Editore",
+    "anno": "2013",
+    "descrizione": "\"Story\" è un libro su come si narrano le storie, non solo quelle per il cinema. Leggendo \"Story\" si acquisiscono consapevolezza e nozioni utili per scrivere racconti o romanzi. Dall'idea di partenza al manoscritto finale, spiega perché lo sceneggiatore non è un artigiano ma un artista. McKee è il maestro degli sceneggiatori di Hollywood. I suoi allievi hanno vinto 32 Oscar e 158 Emmy. Story è prima di tutto un libro su come si narrano le storie e non si limita a essere valido per quelle ideate per il cinema. Leggendo Story si acquisiscono quella consapevolezza e quelle nozioni necessarie per s",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "1faba2f9-4be8-4ef7-b71c-5b380e46d46d",
+    "isbn": "1137587418",
+    "titolo": "A Kind of People",
+    "autori": [
+      "Gurpreet Kaur Bhatti"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/1faba2f9-4be8-4ef7-b71c-5b380e46d46d.jpg",
+    "editore": "Bloomsbury Academic",
+    "anno": "2020",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "cd05d145-f4cf-44b2-a07e-11647f61046b",
+    "isbn": "",
+    "titolo": "Thomas l'Oscuro",
+    "autori": [
+      "Maurice Blanchot"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/cd05d145-f4cf-44b2-a07e-11647f61046b.jpg",
+    "editore": "Il Saggiatore",
+    "anno": "2023",
+    "descrizione": "EDGT2107100",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0bc6a455-2cd6-4c5a-af43-5314421a02de",
+    "isbn": "",
+    "titolo": "Tokyo Express",
+    "autori": [
+      "Matsumoto Seichō"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0bc6a455-2cd6-4c5a-af43-5314421a02de.jpg",
+    "editore": "Adelphi",
+    "anno": "2018",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "bd17efc4-bae8-4819-9f6c-5a2f65bd1fb1",
+    "isbn": "9780593595640",
+    "titolo": "Stag Dance",
+    "autori": [
+      "Peters,Torrey"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/bd17efc4-bae8-4819-9f6c-5a2f65bd1fb1.jpg",
+    "editore": "Random House",
+    "anno": "2024",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "136ef1c8-185c-492c-8525-c58ffdf0a036",
+    "isbn": "9788845124754",
+    "titolo": "Tre Uomini in Barca (Italian Edition)",
+    "autori": [
+      "Jerome K Jerome"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/136ef1c8-185c-492c-8525-c58ffdf0a036.jpg",
+    "editore": "Fabbri",
+    "anno": "2002",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "8ebdb0c4-73d8-4a76-a7cb-57a4452272a1",
+    "isbn": "",
+    "titolo": "Tutto sull'amore",
+    "autori": [
+      "bell hooks"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/8ebdb0c4-73d8-4a76-a7cb-57a4452272a1.jpg",
+    "editore": "Il Saggiatore",
+    "anno": "2022",
+    "descrizione": "EDGT2073399",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0b943af1-d265-4d21-813b-143a0481de00",
+    "isbn": "9788838944604",
+    "titolo": "Un Mondo tutto mio",
+    "autori": [
+      "Graham Greene;Domenico Scarpa;"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0b943af1-d265-4d21-813b-143a0481de00.jpg",
+    "editore": "edigita",
+    "anno": "2022",
+    "descrizione": "Ho deciso di selezionare, da un diario che conta pi di ottocento pagine, cominciato nel 1965 e terminato nel 1989, delle scene tratte dal Mondo tutto mio, cos Greene definiva il mondo dei suoi sogni. In un certo senso un'autobiografia, che inizia con la Felicit e termina con la Morte. Il taccuino sempre sul comodino accanto al letto, Graham Greene aveva l'abitudine di appuntarsi i sogni appena fatti (un'eredit di antiche sedute con lo psicanalista) per poi ricostruire la mattina dopo. Poco prima di morire, dall'enorme materiale, ne scelse alcuni, raggruppandoli in categorie. Il risultato, Un M",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6b3f2562-71cf-4c5d-af2e-6339e5a9b55e",
+    "isbn": "",
+    "titolo": "Una Francia sconosciuta",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6b3f2562-71cf-4c5d-af2e-6339e5a9b55e.jpg",
+    "editore": "Adelphi",
+    "anno": "2024",
+    "descrizione": "EDGT2297815",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "d0e34959-4437-4979-aa47-205db0c4d0f6",
+    "isbn": "9788845976155",
+    "titolo": "Una visita guidata",
+    "autori": [
+      "Alan Bennett"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/d0e34959-4437-4979-aa47-205db0c4d0f6.jpg",
+    "editore": "Adelphi Edizioni spa",
+    "anno": "2014",
+    "descrizione": "Alan Bennett dove meno ci si aspetterebbe di trovarlo: fra le sale della National Gallery, a raccontare grandi quadri – lui un cicerone diverso da qualsiasi altro, i lettori a ridere senza freni, come succede di ridere solo in classe o, appunto, alle visite guidate.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0efaa1a8-4165-43e3-9529-67dbd6e3f664",
+    "isbn": "",
+    "titolo": "Uomini e topi",
+    "autori": [
+      "John Steinbeck",
+      "Luigi Sampietro",
+      "Michele Mari"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0efaa1a8-4165-43e3-9529-67dbd6e3f664.jpg",
+    "editore": "Bompiani",
+    "anno": "2025",
+    "descrizione": "La storia di un'amicizia profonda tra due uomini, due braccianti stagionali in California che condividono un sogno. George Milton si occupa da sempre con ferma dolcezza di Lennie Small, un gigante con il cuore e la mente di un bambino. Il loro progetto, mentre vagano di ranch in ranch, è trovare un posto tutto per loro a Hill Country, dove la terra costa poco: un posto piccolo, giusto qualche acro da coltivare, e poi qualche pollo, maiali, conigli. Ma le loro speranze, come \"i migliori progetti predisposti da uomini e topi\" (è un verso di Robert Burns), sono destinate a sbriciolarsi. Il ritrat",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9e5eab93-592d-4621-b889-2a561476c421",
+    "isbn": "",
+    "titolo": "Verso Betlemme. Scritti 1961-1968",
+    "autori": [
+      "Joan Didion"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9e5eab93-592d-4621-b889-2a561476c421.jpg",
+    "editore": "Il Saggiatore",
+    "anno": "2015",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "06072c78-ec8a-451a-808d-6bb5b3da25c9",
+    "isbn": "",
+    "titolo": "Viaggio con Charley",
+    "autori": [
+      "John Steinbeck"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/06072c78-ec8a-451a-808d-6bb5b3da25c9.jpg",
+    "editore": "Bur",
+    "anno": "2004",
+    "descrizione": "\"Quando il virus dell'irrequietezza comincia impadronirsi di un uomo caparbio,la vittima deve anzitutto trovare in se stessa una ragione buona e sufficienteper andare. Ciò non è difficile al vagabondo attivo.\" Così ha inizio, inquesto libro pubblicato nel 1962, il viaggio \"on the road\" di Steinbeck,scortato da Charley, \"un barboncino di prima categoria\" che è compagno diviaggio ma anche destinatario dei monologhi dello scrittore: ricordi,aspirazioni, impressioni di un passato avventuroso e di un presente pieno discoperte. Come afferma Daniele Giglioli nella sua introduzione, \"chi aquell'età si",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "8d6fc3da-dc94-488d-897f-f092f772586d",
+    "isbn": "9788845974588",
+    "titolo": "Lispector Clarice - 1943 - Vicino al cuore selvaggio",
+    "autori": [
+      "Lispector Clarice"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/8d6fc3da-dc94-488d-897f-f092f772586d.jpg",
+    "editore": "Adelphi Edizioni spa",
+    "anno": "2014",
+    "descrizione": "Clarice Lispector aveva diciannove anni quando fu pubblicato questo suo libro in Brasile. Era una giovane ebrea ucraina, trasferita con i genitori, piccolissima, in America del Sud. La critica brasiliana accolse subito la Lispector con meraviglia, definendo questo libro «il nostro primo romanzo nello spirito di Joyce e Virginia Woolf» (Alvaro Lins). Ma la Lispector non conosceva bene né l’uno né l’altra: era invece una scrittrice fortemente istintiva, che già nelle sue prime pagine tracciava definitivamente i lineamenti del suo mondo: un mondo frantumato, traboccante di immagini, dove si è con",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "9c288423-e8f0-450e-a4a4-80320203dfff",
+    "isbn": "9788858861448",
+    "titolo": "Want",
+    "autori": [
+      "Gillian Anderson"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/9c288423-e8f0-450e-a4a4-80320203dfff.jpg",
+    "editore": "© 2024 Giangiacomo Feltrinelli Editore Milano",
+    "anno": "",
+    "descrizione": "Il libro è nato da un invito che Gillian Anderson ha rivolto alle donne di tutto il mondo, un appello a condividere – in forma anonima – le proprie fantasie sessuali, sensazioni e pensieri intimi e profondi che di rado si esprimono ad alta voce. Sono desideri onesti, schietti, strazianti, divertenti e decisamente sconci, da cui sono emerse fantasie intense e sfaccettate quanto coloro che le hanno condivise. Lettere di adolescenti che non hanno ancora fatto sesso; di single bloccate nella spirale infinita di approcci online e avventure di una notte; di donne esauste con bambini piccoli; di mogl",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "47e9cb9b-80e0-42cd-9f74-53a3a7b7fea4",
+    "isbn": "",
+    "titolo": "Nemici",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/47e9cb9b-80e0-42cd-9f74-53a3a7b7fea4.jpg",
+    "editore": "Adelphi",
+    "anno": "2024",
+    "descrizione": "EDGT2224745",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4bd7ad13-a67d-43ec-8c2a-b5271af1a477",
+    "isbn": "9788870918755",
+    "titolo": "Questioni di un certo genere",
+    "autori": [
+      "AA.VV."
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4bd7ad13-a67d-43ec-8c2a-b5271af1a477.jpg",
+    "editore": "Iperborea",
+    "anno": "2021",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "78280340-39e7-44b9-aee1-86ec3bb324e6",
+    "isbn": "9788804487692",
+    "titolo": "Sulla Strada",
+    "autori": [
+      "Jack Kerouac"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/78280340-39e7-44b9-aee1-86ec3bb324e6.jpg",
+    "editore": "MONDADORI",
+    "anno": "1957",
+    "descrizione": "Dean e Sal (trasfigurazioni letterarie di Neal Cassady e Jack Kerouac) si mettono in viaggio, animati da una infinita ansia di vita e di esperienza, sulle interminabili highways dell'America e del Messico. \"Sulla strada\" ne registra le tappe, le rivelazioni, gli incontri, regalandoci una storia di grande autenticità artistica ed esistenziale. Romanzo dell'amicizia e delle difficoltà dell'amore, della ricerca di sé, del desiderio di appartenenza e dell'impossibilità di rinunciare al desiderio e al bisogno di rivolta, narrazione dell'ansia di un andare senza fine che cancelli l'ombra della noia ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "8d4e43f4-e650-4896-9e33-5ab536367111",
+    "isbn": "9788858400906",
+    "titolo": "Wallace David Foster - 2010 - Questa è l'acqua",
+    "autori": [
+      "Wallace David Foster"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/8d4e43f4-e650-4896-9e33-5ab536367111.jpg",
+    "editore": "Giulio Einaudi Editore",
+    "anno": "2010",
+    "descrizione": "I sei racconti di Questa è l'acqua , scritti tra il 1984 e il 2005, offrono uno sguardo di insieme sulla straordinaria avventura artistica di Wallace, e una summa delle sue tematiche e dei diversi stili con cui le ha affrontate ed esaltate. La depressione, vivisezionata nelle sue spietate dinamiche nel doloroso e commovente Il pianeta Trillafon in relazione alla Cosa Brutta ; la ricerca di una nuova maturità ed equilibrio nel discorso tenuto davanti agli studenti del Kenyon College, che dà il titolo alla raccolta; il sentimento amoroso in tutte le sue possibili declinazioni, tra goffaggine, te",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "12d294e4-45db-485e-868f-b78713633379",
+    "isbn": "9788806193751",
+    "titolo": "Il mestiere di scrivere",
+    "autori": [
+      "Raymond Carver"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/12d294e4-45db-485e-868f-b78713633379.jpg",
+    "editore": "Einaudi",
+    "anno": "2001",
+    "descrizione": "Esercizi di scrittura creativa, lezioni, istruzioni per la composizione di una short-story, note sull'arte della concisione. L'insegnamento della scrittura creativa è stato per Raymond Carver qualcosa di piú che un modo per guadagnarsi da vivere: cominciò negli anni '70 a tenere le sue memorabili lezioni di Creative Writing - in un periodo segnato dalla devastazione dell'alcolismo - e quelle lezioni oltre a dare origine a una vera e propria tendenza letteraria furono per Carver un modo per riflettere sul senso del narrare e per confrontarsi con i grandi scrittori suoi maestri - da Checov a Hem",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "5f45ecf3-9a15-401b-b537-df4b4cf83084",
+    "isbn": "",
+    "titolo": "Frammenti di un discorso amoroso",
+    "autori": [
+      "Roland Barthes"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/5f45ecf3-9a15-401b-b537-df4b4cf83084.jpg",
+    "editore": "Giulio Einaudi editore",
+    "anno": "2001",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "0e430d9d-8dd2-493d-9803-4befa7c1f4d4",
+    "isbn": "9788845901744",
+    "titolo": "La leggenda del santo bevitore",
+    "autori": [
+      "Joseph Roth"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/0e430d9d-8dd2-493d-9803-4befa7c1f4d4.jpg",
+    "editore": "Adelphi",
+    "anno": "2012",
+    "descrizione": "La leggenda del santo bevitore fu pubblicato per la prima volta nel 1939, pochi mesi dopo la morte di Joseph Roth, esule a Parigi – e può essere considerato, per molti versi, il suo testamento, la parabola trasparente e misteriosa che racchiude la cifra del suo autore, oggi riscoperto come uno dei più straordinari narratori di questo secolo. Il clochard Andreas Kartak, originario come Roth delle province orientali dell’Impero absburgico, incontra una notte, sotto i ponti della Senna, un enigmatico sconosciuto che gli offre duecento franchi. Il clochard, che ha un senso inscalfibile dell’onore,",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "7750c696-7bcf-48a7-8645-69d66f7daedd",
+    "isbn": "",
+    "titolo": "Che cosa fa la gente tutto il giorno?",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/7750c696-7bcf-48a7-8645-69d66f7daedd.jpg",
+    "editore": "Adelphi",
+    "anno": "2023",
+    "descrizione": "EDGT2134954",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "088a17c9-1c9e-44df-8e1f-8a2b27f0ad07",
+    "isbn": "",
+    "titolo": "Greco cerca greca",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/088a17c9-1c9e-44df-8e1f-8a2b27f0ad07.jpg",
+    "editore": "Adelphi",
+    "anno": "2024",
+    "descrizione": "EDGT2290357",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4581ef67-b400-4da7-a539-69d36fa934a0",
+    "isbn": "",
+    "titolo": "La donna giusta",
+    "autori": [
+      "Sándor Márai"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4581ef67-b400-4da7-a539-69d36fa934a0.jpg",
+    "editore": "Adelphi",
+    "anno": "2020",
+    "descrizione": "EDGT335456",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "72499aaa-80fe-4de4-ba02-07b3beb56da7",
+    "isbn": "",
+    "titolo": "Lo Zen e l’arte della manutenzione della motocicletta",
+    "autori": [
+      "Robert M. Pirsig"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/72499aaa-80fe-4de4-ba02-07b3beb56da7.jpg",
+    "editore": "Adelphi",
+    "anno": "2019",
+    "descrizione": "EDGT627988",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b9544bdb-aa7c-4e98-883b-c2a4f287ee4a",
+    "isbn": "",
+    "titolo": "L’alternativa nomade",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b9544bdb-aa7c-4e98-883b-c2a4f287ee4a.jpg",
+    "editore": "Adelphi",
+    "anno": "2024",
+    "descrizione": "EDGT2280159",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "63cbe198-74e6-4e03-8308-bce9707615f6",
+    "isbn": "",
+    "titolo": "Il figlio di due madri",
+    "autori": [
+      "Massimo Bontempelli"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/63cbe198-74e6-4e03-8308-bce9707615f6.jpg",
+    "editore": "Utopia",
+    "anno": "",
+    "descrizione": "EDGT2145475",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b55b9bd0-1768-4be8-8424-4f061fd1eeba",
+    "isbn": "9788845985225",
+    "titolo": "I Luoghi Santi",
+    "autori": [
+      "Evelyn Waugh;"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b55b9bd0-1768-4be8-8424-4f061fd1eeba.jpg",
+    "editore": "edigita",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "fa66b422-e35e-49a9-aefd-1402d7e642fd",
+    "isbn": "9788845937217",
+    "titolo": "Una battaglia persa",
+    "autori": [
+      "Svetlana Aleksievič"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/fa66b422-e35e-49a9-aefd-1402d7e642fd.jpg",
+    "editore": "Adelphi",
+    "anno": "2022",
+    "descrizione": "epub by marzolino",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6d56d3d4-410d-448c-b1cf-a858e62718a6",
+    "isbn": "",
+    "titolo": "Biografia di un vestito",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6d56d3d4-410d-448c-b1cf-a858e62718a6.jpg",
+    "editore": "Adelphi",
+    "anno": "2023",
+    "descrizione": "EDGT2103428",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "237f28f3-9616-4e9f-a881-6dc5b58bb5b6",
+    "isbn": "9788845982583",
+    "titolo": "Per le sei corde",
+    "autori": [
+      "Jorge Luis Borges;"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/237f28f3-9616-4e9f-a881-6dc5b58bb5b6.jpg",
+    "editore": "edigita",
+    "anno": "",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "d95e2201-01c8-4757-a2e3-c3c1147b75b3",
+    "isbn": "9781783199105",
+    "titolo": "People, Places & Things",
+    "autori": [
+      "Duncan MacMillan"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/d95e2201-01c8-4757-a2e3-c3c1147b75b3.jpg",
+    "editore": "OBERON BOOKS Ltd",
+    "anno": "",
+    "descrizione": "'Drugs and alcohol have never let me down. They have always loved me. There are substances I can put into my bloodstream that make the world perfect. That is the only absolute truth in the universe. I'm being difficult because you want to take it away from me.' Emma was having the time of her life. Now she's in rehab. Her first step is to admit that she has a problem. But the problem isn't with Emma, it's with everything else. She needs to tell the truth. But she's smart enough to know that there's no such thing. When intoxication feels like the only way to survive the modern world, how can sh",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c0ef674c-73bf-4d43-a509-ef6510c8ed01",
+    "isbn": "",
+    "titolo": "Se una notte d'inverno un viaggiatore [Ladri di Biblioteche]",
+    "autori": [
+      "Italo Calvino"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c0ef674c-73bf-4d43-a509-ef6510c8ed01.jpg",
+    "editore": "",
+    "anno": "2013",
+    "descrizione": "Created by Natjus",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "b5eadfea-d7a3-4f3b-9665-bc2afb2af519",
+    "isbn": "",
+    "titolo": "Lettere al figlio",
+    "autori": [
+      "Chesterfield, Lord"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/b5eadfea-d7a3-4f3b-9665-bc2afb2af519.jpg",
+    "editore": "",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e7b97c15-0a56-4c45-9204-2521d5dd7ba7",
+    "isbn": "",
+    "titolo": "La lotteria",
+    "autori": [
+      "Shirley Jackson"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e7b97c15-0a56-4c45-9204-2521d5dd7ba7.jpg",
+    "editore": "Adelphi",
+    "anno": "2020",
+    "descrizione": "EDGT52285",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "4b7b08c0-56e2-44e8-bbd4-89bb5c249228",
+    "isbn": "",
+    "titolo": "Convalescenza",
+    "autori": [
+      "Kang Han"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/4b7b08c0-56e2-44e8-bbd4-89bb5c249228.jpg",
+    "editore": "Adelphi",
+    "anno": "2019",
+    "descrizione": "EDGT1129698",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "551eec69-6ecc-46df-ac56-8ad68d3ac673",
+    "isbn": "",
+    "titolo": "Vera gioia è vestita di dolore",
+    "autori": [],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/551eec69-6ecc-46df-ac56-8ad68d3ac673.jpg",
+    "editore": "Adelphi",
+    "anno": "2023",
+    "descrizione": "EDGT2142970",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "23c90f92-740b-45ff-887e-762932ecd27d",
+    "isbn": "",
+    "titolo": "Senza domani (Piccola biblioteca Adelphi) (Italian Edition)",
+    "autori": [
+      "Vivant Denon"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/23c90f92-740b-45ff-887e-762932ecd27d.jpg",
+    "editore": "Adelphi",
+    "anno": "2016",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c98b2d29-0c5f-4f4f-a773-8a6d69bc14e2",
+    "isbn": "",
+    "titolo": "La verita, vi prego, sull'amore",
+    "autori": [
+      "Auden, W.H."
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/c98b2d29-0c5f-4f4f-a773-8a6d69bc14e2.jpg",
+    "editore": "",
+    "anno": "0101",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "895a297b-2b51-458a-89a2-ab49cf398612",
+    "isbn": "",
+    "titolo": "Il primo libro di teatro",
+    "autori": [
+      "Robert Leach"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/895a297b-2b51-458a-89a2-ab49cf398612.jpg",
+    "editore": "EINAUDI",
+    "anno": "2023",
+    "descrizione": "EDGT2178631",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "8cea461f-7865-419e-9c62-eab5248a3856",
+    "isbn": "9788806173883",
+    "titolo": "Trilogia di New York",
+    "autori": [
+      "Paul Auster"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/8cea461f-7865-419e-9c62-eab5248a3856.jpg",
+    "editore": "Einaudi",
+    "anno": "2012",
+    "descrizione": "Pubblicati tra il 1985 e il 1987, i tre romanzi che compongono questa \"Trilogia\" sono raffinate detective stories in cui le strade di New York fanno da cornice e palcoscenico a una profonda inquietudine esistenziale. \"Città di vetro\" è la storia di uno scrittore di gialli che \"accetta\" l'errore del caso e fingendosi un'altra persona cerca di risolvere un mistero. \"Fantasmi\" narra la vicenda di un detective privato che viene assoldato per tenere sotto controllo una persona, ma a poco a poco i due ruoli si scambiano e colui che doveva spiare diventa colui che viene spiato. \"La stanza chiusa\" rac",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "05c1c541-65a0-4983-8429-35b14eff5091",
+    "isbn": "9788858432563",
+    "titolo": "Confidenza",
+    "autori": [
+      "Domenico Starnone"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/05c1c541-65a0-4983-8429-35b14eff5091.jpg",
+    "editore": "Einaudi",
+    "anno": "2019",
+    "descrizione": "",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "28a27e69-bd81-4418-8cbe-3a9155369d1c",
+    "isbn": "",
+    "titolo": "Le schegge",
+    "autori": [
+      "Bret Easton Ellis"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/28a27e69-bd81-4418-8cbe-3a9155369d1c.jpg",
+    "editore": "Einaudi",
+    "anno": "2023",
+    "descrizione": "Nel 1981 Bret ha diciassette anni e frequenta l’ultimo anno alla Buckley, la scuola della gioventù dorata di Los Angeles: feste in piscina, amori promiscui, Bmw, coca, vodka e succo di pompelmo, nell’autoradio cassette piene di Ultravox, Blondie e Duran Duran. Un mondo falso e perfetto, ma tutto sommato piacevole, di certo eccitante. Almeno finché in classe non arriva uno studente nuovo: «se la primavera e l’estate del 1981 erano state il sogno, qualcosa di paradisiaco, allora il mese di settembre rappresentò la fine di quel sogno con l’arrivo di Robert Mallory». Robert è intelligente, bello, ",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "2fd06730-27af-42bb-bba4-6a5f44924529",
+    "isbn": "9788858445754",
+    "titolo": "I dieci passi dell'addio",
+    "autori": [
+      "Luigi Nacci"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/2fd06730-27af-42bb-bba4-6a5f44924529.jpg",
+    "editore": "© 2024 Giulio Einaudi editore s.p.a., Torino",
+    "anno": "",
+    "descrizione": "Come si ricomincia a vivere dopo la fine di un amore? Come si prepara il caffè, come ci si guarda allo specchio, come si aprono e richiudono gli armadi, come ci si veste per andare al lavoro? Tutto è precipitato perché ti sei innamorato di un’altra donna: sei tu che hai convocato il disastro. Ora sei solo nella casa semivuota e non smetti di pensare a tutto ciò che è stato. Vuoi cercare tra i crolli quello che ancora splende. Non vuoi dimenticare niente. Vai al tavolo e scrivi, uno dopo l’altro, i dieci passi dell’addio.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "88278633-3fcc-4007-bf79-f17f3ffd0303",
+    "isbn": "",
+    "titolo": "L'uomo in rivolta",
+    "autori": [
+      "Camus Albert"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/88278633-3fcc-4007-bf79-f17f3ffd0303.jpg",
+    "editore": "Bompiani",
+    "anno": "2018",
+    "descrizione": "EDGT1070924",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "e9ce680e-8120-4d09-bf1f-abb8e95a13fb",
+    "isbn": "9788858703885",
+    "titolo": "Caligola",
+    "autori": [
+      "Albert Camus"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/e9ce680e-8120-4d09-bf1f-abb8e95a13fb.jpg",
+    "editore": "Bompiani",
+    "anno": "2011",
+    "descrizione": "Gli uomini muoiono e non sono felici. Un'opera teatrale di estrema tensione, in cui il delirio del potere e l'utopia della verità vengono esemplificati dal tragico destino di un imperatore pazzo e crudele.",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "af9f0e69-c060-4493-898c-b5e9078017a0",
+    "isbn": "9788832855906",
+    "titolo": "Neurobiologia della volontà",
+    "autori": [
+      "Neurobiologia della volontà [LDB]"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/af9f0e69-c060-4493-898c-b5e9078017a0.jpg",
+    "editore": "Raffaello Cortina Editore",
+    "anno": "2023",
+    "descrizione": "EDGT2143241",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "6e76393d-7021-446b-ac34-79a05a9a4ee9",
+    "isbn": "9781761150272",
+    "titolo": "When Things Are Alive They Hum",
+    "autori": [
+      "Hannah Bent"
+    ],
+    "copertina": "https://raw.githubusercontent.com/4rres/libri/main/covers/6e76393d-7021-446b-ac34-79a05a9a4ee9.jpg",
+    "editore": "Ultimo Press",
+    "anno": "2021",
+    "descrizione": "My hum will be in everything – the wind, the sea, the sand, the air, in you. 'When literature is alive it hums, and rattles and warms and hurts and heals. Hannah Bent and her wondrous Harper and Marlowe have changed the way I've been going about my days. What a gift.' – Trent Dalton, author of Boy Swallows Universe and All Our Shimmering Skies Marlowe and Harper share a bond deeper than most sisters, shaped by the loss of their mother in childhood. For Harper, living with what she calls the Up syndrome and gifted with an endless capacity for wonder, Marlowe and she are connected by an invisibl",
+    "stato": "posseduto",
+    "letto": false,
+    "aggiunto": "2026-06-16T12:00:00.000Z"
   }
 ]
