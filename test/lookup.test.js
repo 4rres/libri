@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import {
   searchBooks,
   searchGoogle,
+  fallbackQueries,
   normalizeGoogleVolume,
   normalizeItunesItem
 } from "../src/lookup.js";
@@ -93,6 +94,34 @@ test("searchBooks merges sources and dedupes by isbn", async () => {
   const res = await searchBooks("qualcosa", { fetch: fakeFetch });
   const isbns = res.map((b) => b.isbn).sort();
   assert.deepEqual(isbns, ["111", "222"]); // duplicato 111 unito
+});
+
+test("fallbackQueries splits compound titles, longest segment first", () => {
+  const fbs = fallbackQueries("Lulù-Lo spirito della terra-Il vaso di Pandora");
+  assert.equal(fbs[0], "Lo spirito della terra"); // segmento più lungo
+  assert.ok(fbs.includes("Il vaso di Pandora"));
+});
+
+test("fallbackQueries returns nothing for an ISBN", () => {
+  assert.deepEqual(fallbackQueries("9788845292613"), []);
+});
+
+test("searchBooks retries with a segment when full title finds nothing", async () => {
+  const fakeFetch = async (url) => {
+    if (url.includes("googleapis")) return { ok: true, json: async () => ({ items: [] }) };
+    if (url.includes("itunes")) return { ok: true, json: async () => ({ results: [] }) };
+    // OpenLibrary: vuoto tranne quando cerca il segmento "spirito"
+    if (url.includes("openlibrary")) {
+      if (decodeURIComponent(url).toLowerCase().includes("spirito")) {
+        return { ok: true, json: async () => ({ docs: [{ title: "Lulu", author_name: ["Wedekind"], isbn: ["7"] }] }) };
+      }
+      return { ok: true, json: async () => ({ docs: [] }) };
+    }
+    return { ok: true, json: async () => ({}) };
+  };
+  const res = await searchBooks("Lulù-Lo spirito della terra-Il vaso di Pandora", { fetch: fakeFetch });
+  assert.equal(res.length, 1);
+  assert.equal(res[0].titolo, "Lulu");
 });
 
 test("searchBooks survives a failing source", async () => {
