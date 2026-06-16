@@ -86,6 +86,31 @@ body::before {
 .card .a { color: var(--muted); font-size: 12px; font-weight: 500; }
 .card .read-badge { color: var(--accent); font-size: 12px; font-weight: 700; }
 .card .meta { color: var(--muted); font-size: 11px; font-weight: 600; margin-top: 2px; }
+
+/* Copertine e placeholder */
+.card-cover {
+  width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 10px; background: #e8e8e5;
+  display: block;
+}
+.card-cover.ph {
+  display: flex; align-items: center; justify-content: center;
+  font-size: 38px; background: rgba(0,0,0,0.06); color: var(--muted);
+}
+.card-cover.broken { visibility: hidden; }
+
+/* Dettaglio libro */
+.detail-top { display: flex; gap: 16px; align-items: flex-start; }
+.detail-cover {
+  width: 110px; flex: 0 0 110px; aspect-ratio: 2/3; object-fit: cover;
+  border-radius: 10px; background: #e8e8e5;
+}
+.detail-cover.ph { display: flex; align-items: center; justify-content: center; font-size: 40px; background: rgba(0,0,0,0.06); }
+.detail-cover.broken { visibility: hidden; }
+.panel h2 { margin: 0 0 6px; }
+.descr { max-height: 30vh; overflow-y: auto; color: var(--txt); font-size: 14px; line-height: 1.5; }
+.cover-edit { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; align-items: center; }
+.cover-edit .add-input { flex: 1; min-width: 160px; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
 .results .card { border: 1px dashed var(--accent); }
 .overlay {
   position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;

@@ -2,7 +2,11 @@ export function createStore({ initial = [], persist, now, id } = {}) {
   let books = structuredClone(initial);
 
   async function save() {
-    if (persist) await persist(books);
+    if (!persist) return;
+    // persist può restituire la lista unita al remoto: la adottiamo per restare
+    // allineati ed evitare di perdere modifiche fatte altrove.
+    const result = await persist(books);
+    if (Array.isArray(result)) books = result;
   }
 
   function find(bookId) {
@@ -47,6 +51,10 @@ export function createStore({ initial = [], persist, now, id } = {}) {
     async setStato(bookId, stato) {
       const b = find(bookId);
       if (b) { b.stato = stato; await save(); }
+    },
+    async setCover(bookId, url) {
+      const b = find(bookId);
+      if (b) { b.copertina = url; await save(); }
     },
     async remove(bookId) {
       books = books.filter((b) => b.id !== bookId);

@@ -129,17 +129,16 @@ export function fallbackQueries(query) {
 export async function searchBooks(query, { fetch = globalThis.fetch } = {}) {
   const primary = await searchAllSources(query, fetch);
   if (primary.length) return primary;
-  // Nessun risultato sul titolo completo: aggrega i candidati di TUTTI i
-  // segmenti di fallback (non solo il primo) così l'edizione giusta ha più
-  // probabilità di comparire nell'elenco.
+  // Nessun risultato sul titolo completo: interroga i segmenti di fallback in
+  // PARALLELO e aggrega i candidati, così l'edizione giusta ha più probabilità
+  // di comparire e l'attesa è quella di una sola richiesta, non della somma.
+  const lists = await Promise.all(
+    fallbackQueries(query).map((fb) => searchAllSources(fb, fetch).catch(() => []))
+  );
   const seen = new Map();
-  for (const fb of fallbackQueries(query)) {
-    const r = await searchAllSources(fb, fetch);
-    for (const b of r) {
-      const k = dedupeKey(b);
-      if (!seen.has(k)) seen.set(k, b);
-    }
-    if (seen.size >= 15) break;
+  for (const b of lists.flat()) {
+    const k = dedupeKey(b);
+    if (!seen.has(k)) seen.set(k, b);
   }
   return [...seen.values()];
 }

@@ -41,6 +41,29 @@ test("remove deletes by id", async () => {
   assert.equal(store.all().length, 0);
 });
 
+test("save adopts the list returned by persist (merge)", async () => {
+  const merged = [{ id: "x", titolo: "T", stato: "posseduto", letto: false }, { id: "remoto", titolo: "R" }];
+  const persist = async () => merged;
+  const store = createStore({
+    initial: [{ id: "x", titolo: "T", stato: "posseduto", letto: false }],
+    persist, now: () => "t", id: () => "x"
+  });
+  await store.setRead("x", true);
+  // dopo il save, lo store ha adottato la lista del merge (include 'remoto')
+  assert.ok(store.all().find((b) => b.id === "remoto"));
+});
+
+test("setCover updates copertina and persists", async () => {
+  const saved = [];
+  const store = createStore({
+    initial: [{ id: "x", titolo: "T", stato: "posseduto", letto: false }],
+    persist: async (b) => { saved.push(1); }, now: () => "t", id: () => "x"
+  });
+  await store.setCover("x", "https://img/x.jpg");
+  assert.equal(store.all()[0].copertina, "https://img/x.jpg");
+  assert.equal(saved.length, 1);
+});
+
 test("filter returns subsets", () => {
   const { store } = newStore([
     { id: "1", titolo: "A", stato: "posseduto", letto: true },

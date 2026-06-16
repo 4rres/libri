@@ -20,7 +20,7 @@ async function boot() {
     initial,
     persist: async (books) => {
       try {
-        await github.save(books);
+        return await github.save(books); // può restituire la lista unita al remoto
       } catch (e) {
         alert("Salvataggio non riuscito: " + e.message);
       }

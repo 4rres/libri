@@ -1,7 +1,7 @@
 // Service worker per Libri (PWA installabile).
 // Strategia: network-first per il guscio dell'app (così gli aggiornamenti di
 // design appaiono subito), con cache come fallback offline.
-const CACHE = "libri-shell-v3";
+const CACHE = "libri-shell-v4";
 const SHELL = [
   "./",
   "./index.html",
@@ -12,6 +12,7 @@ const SHELL = [
   "./src/store.js",
   "./src/lookup.js",
   "./src/github.js",
+  "./src/util.js",
   "./public/icon-192.png",
   "./public/icon-512.png"
 ];
