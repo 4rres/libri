@@ -85,6 +85,7 @@ body::before {
 .card .t { font-weight: 700; font-size: 14px; margin-top: 8px; color: var(--txt); }
 .card .a { color: var(--muted); font-size: 12px; font-weight: 500; }
 .card .read-badge { color: var(--accent); font-size: 12px; font-weight: 700; }
+.card .meta { color: var(--muted); font-size: 11px; font-weight: 600; margin-top: 2px; }
 .results .card { border: 1px dashed var(--accent); }
 .overlay {
   position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;

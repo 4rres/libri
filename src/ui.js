@@ -31,11 +31,14 @@ export function initUI({ store, lookup, github, onChange }) {
   function cardHtml(b, dashed) {
     const cover = b.copertina || "";
     const badge = b.letto ? `<span class="read-badge">● letto</span>` : "";
+    const meta = dashed
+      ? `<div class="meta">${[b.anno, b.fonte].filter(Boolean).join(" · ")}</div>`
+      : badge;
     return `<div class="card" data-id="${b.id || ""}">
       <img src="${cover}" alt="" onerror="this.style.visibility='hidden'"/>
       <div class="t">${b.titolo || ""}</div>
       <div class="a">${(b.autori || []).join(", ")}</div>
-      ${dashed ? "" : badge}
+      ${meta}
     </div>`;
   }
 

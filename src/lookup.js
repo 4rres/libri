@@ -30,7 +30,7 @@ export function normalizeGoogleVolume(vol) {
 
 export async function searchGoogle(query, { fetch = globalThis.fetch } = {}) {
   const q = isIsbn(query) ? `isbn:${cleanIsbn(query)}` : query;
-  const url = `${GOOGLE}?q=${encodeURIComponent(q)}&maxResults=5`;
+  const url = `${GOOGLE}?q=${encodeURIComponent(q)}&maxResults=8`;
   const res = await fetch(url);
   if (!res.ok) return [];
   const data = await res.json();
@@ -55,7 +55,7 @@ export function normalizeOpenLibDoc(doc) {
 
 export async function searchOpenLibrary(query, { fetch = globalThis.fetch } = {}) {
   const param = isIsbn(query) ? `isbn=${cleanIsbn(query)}` : `q=${encodeURIComponent(query)}`;
-  const url = `${OPENLIB}?${param}&limit=5`;
+  const url = `${OPENLIB}?${param}&limit=8`;
   const res = await fetch(url);
   if (!res.ok) return [];
   const data = await res.json();
@@ -79,7 +79,7 @@ export function normalizeItunesItem(it) {
 export async function searchAppleBooks(query, { fetch = globalThis.fetch } = {}) {
   // iTunes non cerca per ISBN: con un ISBN saltiamo questa fonte.
   if (isIsbn(query)) return [];
-  const url = `${ITUNES}?term=${encodeURIComponent(query)}&country=IT&media=ebook&limit=5`;
+  const url = `${ITUNES}?term=${encodeURIComponent(query)}&country=IT&media=ebook&limit=8`;
   const res = await fetch(url);
   if (!res.ok) return [];
   const data = await res.json();
@@ -127,11 +127,19 @@ export function fallbackQueries(query) {
 }
 
 export async function searchBooks(query, { fetch = globalThis.fetch } = {}) {
-  let results = await searchAllSources(query, fetch);
-  if (results.length) return results;
+  const primary = await searchAllSources(query, fetch);
+  if (primary.length) return primary;
+  // Nessun risultato sul titolo completo: aggrega i candidati di TUTTI i
+  // segmenti di fallback (non solo il primo) così l'edizione giusta ha più
+  // probabilità di comparire nell'elenco.
+  const seen = new Map();
   for (const fb of fallbackQueries(query)) {
-    results = await searchAllSources(fb, fetch);
-    if (results.length) return results;
+    const r = await searchAllSources(fb, fetch);
+    for (const b of r) {
+      const k = dedupeKey(b);
+      if (!seen.has(k)) seen.set(k, b);
+    }
+    if (seen.size >= 15) break;
   }
-  return [];
+  return [...seen.values()];
 }
